@@ -9,6 +9,10 @@ import SectionServices from './sections/SectionServices';
 import Footer from './sections/Footer';
 import MetaData from './components/MetaData';
 import Banner from './components/Banner.js';
+import Paysage1 from "../src/images/paysage1.jpg";
+import Paysage2 from "./images/paysageMars.webp";
+import Paysage3 from "./images/paysageForet.webp";
+import Paysage4 from "./images/paysageFantastic.webp";
 
 function App() {
   return (
@@ -16,23 +20,27 @@ function App() {
       <MetaData />
       <Header />
       <SectionAccueil />
-      <Banner 
+      <Banner
+          imageUrl={Paysage1}
           accroche="La curiosité est le moteur de la connaissance, 
                     un feu sacré qui anime l'esprit et éclaire le 
                     chemin vers de nouveaux horizons."
       />
       <SectionPresentation />
-      <Banner 
+      <Banner
+          imageUrl={Paysage2}
           accroche="Explorez mes projets et laissez-vous captiver par l'ingéniosité qui se cache derrière chaque ligne de code. Chaque site web est une histoire à découvrir."
       />
       <SectionCompetences />
-      <Banner 
+      <Banner
+          imageUrl={Paysage3}
           accroche="Dans l'écheveau du web, chaque clic ouvre 
                     une porte vers l'inconnu, où les idées se 
                     croisent et se réinventent."
       />
       <SectionProjets />
-      <Banner 
+      <Banner
+          imageUrl={Paysage4}
           accroche="Le travail est le reflet de l'âme, un moyen 
                     par lequel nous sculptons notre destinée et 
                     donnons forme à notre existence"

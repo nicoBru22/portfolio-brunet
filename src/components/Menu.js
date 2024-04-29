@@ -1,8 +1,8 @@
 import React from 'react';
 import '../styles/Menu.css';
 
-function Menu(){
-    return(
+function Menu() {
+    return (
         <nav className='menu'>
             <ul className='ulMenu'>
                 <li><a href="#sectionAccueil" className='elementMenu'>Accueil</a></li>

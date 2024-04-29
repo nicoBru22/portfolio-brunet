@@ -3,6 +3,9 @@
     flex-direction: row;
     height: 100%;
 }
+.menu.hidden {
+    display: none;
+}
 .ulMenu {
     font-size: 16px;
     list-style-type: none;

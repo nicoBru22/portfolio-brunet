@@ -6,6 +6,9 @@
     height: 50px;
     padding: 20px;
 }
+.header.hidden {
+    display: none;
+}
 .header {
     position: fixed;
     top: 0;

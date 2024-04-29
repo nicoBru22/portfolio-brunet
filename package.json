@@ -2,7 +2,7 @@
   "name": "portfolio-perso",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicoBru22.github.io/portfolio-Nicolas-BRUNET",
+  "homepage": "https://nicoBru22.github.io/portfolio-brunet",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",

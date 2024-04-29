@@ -1,11 +1,16 @@
 import React from "react";
+import "../styles/Element-projet.css"
 
 function ElementProjet(props){
     return (
-        <div>
-            <div>Ici sera placé le titre du projet et les objectifs fixés</div>
-            <div>
-                <div>
+        <div className="ElementProjet">
+            <div className="ResumeProjet">
+                <h1 className="titreProjet">{props.titreProjet}</h1>
+                <h2 className="objectifsProjet">{props.objectifs}</h2>
+                <h2 className="technosProjet">{props.technos}</h2>
+            </div>
+            <div className={props.classname}>
+                <div className="divImage">
                     <img
                         className="imageProjet" 
                         src={props.imageUrl}
@@ -13,10 +18,9 @@ function ElementProjet(props){
                     />
                 </div>
                 <div className="explicationProjet">
-                    <p>Ici sera placé la description du projet</p>
+                    <p>{props.description}</p>
                 </div>
             </div>
-
         </div>
     );
 }

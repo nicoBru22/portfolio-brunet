@@ -1,0 +1,15 @@
+.explicationProjet {
+    width: 50%;
+    padding: 20px;
+}
+.ImgExplication {
+    display: flex;
+}
+.ImgExplicationInverse {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.imageProjet {
+width: 50%;
+padding: 20px;
+}

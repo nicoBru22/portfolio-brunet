@@ -6,15 +6,14 @@ import '../styles/Projet.css';
 function Projets(){
     return(
         <div className="projets">
-            <a href="https://nicobru22.github.io/AgenceVoyageBooki/#">
                 <PropProjets
+                    to="/portfolio-brunet/projet1"
                     className="projet1"
                     titreProjet="Site d'agence de voyage"
                     imageDescription="Image du site"
                     
                     descriptionProjet="Objectif : Développer la page d'accueil d'un site de voyage avec Html et Css."
                 />
-            </a>
             <PropProjets
                 className="projet2"
                 titreProjet="Site d'architecte"

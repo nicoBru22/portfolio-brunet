@@ -9,17 +9,17 @@ function ReseauxSociaux() {
         <div className="reseauxSociaux">
             <div className="contactRS">Me contacter sur les réseaux sociaux !</div> 
             <div className="divLogoRS">
-                <a href="">
+                <a>
                     <img src={Facebook} alt="Logo de Facebook" className="logoRéseauxSociaux"></img>
                 </a>
             </div>
             <div className="divLogoRS">
-                <a href="">
+                <a>
                     <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux"></img>
                 </a>
             </div>
             <div className="divLogoRS">
-                <a href="">
+                <a>
                     <img src={LinkedIn} alt="Logo de LinkedIn" className="logoRéseauxSociaux"></img>
                 </a>
             </div>

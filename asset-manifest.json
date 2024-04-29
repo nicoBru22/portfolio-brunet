@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.84fca507.css",
-    "main.js": "/portfolio-brunet/static/js/main.32488755.js",
+    "main.css": "/portfolio-brunet/static/css/main.2b7e706c.css",
+    "main.js": "/portfolio-brunet/static/js/main.ebdb05d9.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/photo-presentation-brunet-nicolas.jpg": "/portfolio-brunet/static/media/photo-presentation-brunet-nicolas.8bd5bd01a6851846a6f9.jpg",
     "static/media/logo-react.png": "/portfolio-brunet/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
@@ -13,6 +13,10 @@
     "static/media/logo-expressjs.png": "/portfolio-brunet/static/media/logo-expressjs.0041f539466ce4960fa5.png",
     "static/media/logo-mongodb.png": "/portfolio-brunet/static/media/logo-mongodb.6a26ba5887586b8b7311.png",
     "static/media/logo-Brunet-Nicolas-Developpeur-Web.png": "/portfolio-brunet/static/media/logo-Brunet-Nicolas-Developpeur-Web.ff2912944b8dfbd24628.png",
+    "static/media/paysage1.jpg": "/portfolio-brunet/static/media/paysage1.bdb47ee6b253d86b7504.jpg",
+    "static/media/paysageFantastic.webp": "/portfolio-brunet/static/media/paysageFantastic.54e3fe9de05319836081.webp",
+    "static/media/paysageForet.webp": "/portfolio-brunet/static/media/paysageForet.f820bd765d691b593dea.webp",
+    "static/media/paysageMars.webp": "/portfolio-brunet/static/media/paysageMars.ca4ca0ec88e5665fcfc1.webp",
     "static/media/logo-pageSpeedInsights.png": "/portfolio-brunet/static/media/logo-pageSpeedInsights.1b37fc37ab0e5280c483.png",
     "static/media/logo-agile.png": "/portfolio-brunet/static/media/logo-agile.8d53e957538b5fe67dcf.png",
     "static/media/logo-css3.png": "/portfolio-brunet/static/media/logo-css3.17ca133b9447e300cb1b.png",
@@ -24,12 +28,12 @@
     "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
-    "main.84fca507.css.map": "/portfolio-brunet/static/css/main.84fca507.css.map",
-    "main.32488755.js.map": "/portfolio-brunet/static/js/main.32488755.js.map",
+    "main.2b7e706c.css.map": "/portfolio-brunet/static/css/main.2b7e706c.css.map",
+    "main.ebdb05d9.js.map": "/portfolio-brunet/static/js/main.ebdb05d9.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84fca507.css",
-    "static/js/main.32488755.js"
+    "static/css/main.2b7e706c.css",
+    "static/js/main.ebdb05d9.js"
   ]
 }

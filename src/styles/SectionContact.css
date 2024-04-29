@@ -1,0 +1,7 @@
+.contactForm {
+    display: flex;
+    justify-content: space-around;
+}
+#sectionContact {
+    padding: 40px;
+}

@@ -1,0 +1,8 @@
+.imgTechno{
+    height: 100px;
+}
+.divTechno {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}

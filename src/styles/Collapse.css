@@ -1,0 +1,21 @@
+.buttonCollapse {
+    width: 400px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.collapse {
+    width: 40%;
+}
+.contenu {
+    width: 100%;
+    background-color: #0000ff3d;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.elementButtonCollapse {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    font-size: 20px;
+}

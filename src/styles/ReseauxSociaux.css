@@ -1,0 +1,17 @@
+.contactRS {
+    font-size: 25px;
+    margin: 20px;
+}
+.divLogoRS {
+    margin: 10px;
+}
+.logoRéseauxSociaux {
+    width: 100px;
+}
+.reseauxSociaux {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+}

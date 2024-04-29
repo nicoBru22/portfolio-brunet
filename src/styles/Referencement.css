@@ -1,0 +1,17 @@
+.contenuRefenrecement {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+.divSEO {
+    margin-left: 30px;
+}
+.elementListeReferencement {
+    margin: 10px;
+}
+.elementSEO {
+    margin-bottom: 40px;
+}
+.explicationSEO {
+    padding: 20px;
+}

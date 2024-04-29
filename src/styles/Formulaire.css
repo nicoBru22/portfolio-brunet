@@ -1,0 +1,52 @@
+.buttonForm{
+    height: 40px;
+    width: 200px;
+}
+.divForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70%;
+}
+.divButtonForm{
+    width: 100%;
+}
+.divF{
+    background-color: burlywood;
+    width: 70%;
+    padding: 10px;
+}
+.formulaireContact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 400px;
+}
+.iconForm{
+    background-color: grey;
+    font-size: 30px;
+    padding: 5px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+input{
+    width: 80%;
+}
+.labelInput{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 10px;
+    height: 40px;
+    border-radius: 10px;
+}
+.messageForm {
+    overflow-y: scroll;
+    height: 200px;
+    width: 80%;
+    resize: none;
+}

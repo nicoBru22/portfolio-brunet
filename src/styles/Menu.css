@@ -1,0 +1,21 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+.ulMenu {
+    font-size: 16px;
+    list-style-type: none;
+    display: flex;
+}
+.elementMenu {
+    text-decoration: none;
+    color: black;
+}
+.elementMenu:hover {
+    color: brown;
+    border-bottom: solid;
+}
+li {
+    margin-right: 30px;
+}

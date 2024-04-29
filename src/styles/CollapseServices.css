@@ -1,0 +1,6 @@
+.elementCollapseServices {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}

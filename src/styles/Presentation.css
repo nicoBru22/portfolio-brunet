@@ -1,0 +1,15 @@
+.divPresentation{
+    display: flex;
+}
+.imgPresentation{
+    width: 40%;
+}
+.txtPresentation {
+    background-color: #80808024;
+    width: 60%;
+    padding: 30px;
+    margin: 20px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+}

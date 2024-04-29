@@ -1,0 +1,16 @@
+.parallax {
+    background-image: url(../images/fondecran.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.banner-text {
+    height: 100%;
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

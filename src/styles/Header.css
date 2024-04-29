@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #bfbfbf;
+    height: 50px;
+    padding: 20px;
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.5); /* Couleur de fond transparente */
+    backdrop-filter: blur(10px); /* Appliquer un flou au contenu derrière */
+    z-index: 1000; /* Assurez-vous que le header est au-dessus du contenu */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ajoutez une ombre pour le style */
+}

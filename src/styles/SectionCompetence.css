@@ -1,0 +1,20 @@
+.sectionCompetence {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #bfbfbf;
+}
+.divParagrapheProgres {
+    display: flex;
+    height: 60%;
+}
+.paragrapheCompetence {
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

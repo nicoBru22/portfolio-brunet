@@ -1,0 +1,20 @@
+.contenuCreationWeb {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+.accrocheCreationWeb {
+    padding: 20px;
+}
+.buttonService {
+
+}
+.divCreationWeb{
+    margin-left: 30px;
+}
+.elementCreationWeb{
+    margin-bottom: 40px;
+}
+.elementListeCreationWeb{
+    margin: 10px;
+}

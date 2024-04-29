@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.2b7e706c.css",
-    "main.js": "/portfolio-brunet/static/js/main.ebdb05d9.js",
+    "main.css": "/portfolio-brunet/static/css/main.ffdb0312.css",
+    "main.js": "/portfolio-brunet/static/js/main.3500a3bc.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/photo-presentation-brunet-nicolas.jpg": "/portfolio-brunet/static/media/photo-presentation-brunet-nicolas.8bd5bd01a6851846a6f9.jpg",
     "static/media/logo-react.png": "/portfolio-brunet/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
@@ -28,12 +28,12 @@
     "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
-    "main.2b7e706c.css.map": "/portfolio-brunet/static/css/main.2b7e706c.css.map",
-    "main.ebdb05d9.js.map": "/portfolio-brunet/static/js/main.ebdb05d9.js.map",
+    "main.ffdb0312.css.map": "/portfolio-brunet/static/css/main.ffdb0312.css.map",
+    "main.3500a3bc.js.map": "/portfolio-brunet/static/js/main.3500a3bc.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b7e706c.css",
-    "static/js/main.ebdb05d9.js"
+    "static/css/main.ffdb0312.css",
+    "static/js/main.3500a3bc.js"
   ]
 }

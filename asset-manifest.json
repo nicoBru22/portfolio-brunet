@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-brunet/static/css/main.84fca507.css",
+    "main.js": "/portfolio-brunet/static/js/main.32488755.js",
+    "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
+    "static/media/photo-presentation-brunet-nicolas.jpg": "/portfolio-brunet/static/media/photo-presentation-brunet-nicolas.8bd5bd01a6851846a6f9.jpg",
+    "static/media/logo-react.png": "/portfolio-brunet/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/Projet3.jpg": "/portfolio-brunet/static/media/Projet3.fa7681de9703c3f1d82e.jpg",
+    "static/media/logo-facebook.png": "/portfolio-brunet/static/media/logo-facebook.d752020dcaba29ed5d56.png",
+    "static/media/logo-nodejs.png": "/portfolio-brunet/static/media/logo-nodejs.fc3bd1ec69d7a50e685a.png",
+    "static/media/logo-lighthouse.jpg": "/portfolio-brunet/static/media/logo-lighthouse.223f8c7eec8f9fe7906f.jpg",
+    "static/media/logo-javascript.png": "/portfolio-brunet/static/media/logo-javascript.4562659521861a5e703f.png",
+    "static/media/logo-expressjs.png": "/portfolio-brunet/static/media/logo-expressjs.0041f539466ce4960fa5.png",
+    "static/media/logo-mongodb.png": "/portfolio-brunet/static/media/logo-mongodb.6a26ba5887586b8b7311.png",
+    "static/media/logo-Brunet-Nicolas-Developpeur-Web.png": "/portfolio-brunet/static/media/logo-Brunet-Nicolas-Developpeur-Web.ff2912944b8dfbd24628.png",
+    "static/media/logo-pageSpeedInsights.png": "/portfolio-brunet/static/media/logo-pageSpeedInsights.1b37fc37ab0e5280c483.png",
+    "static/media/logo-agile.png": "/portfolio-brunet/static/media/logo-agile.8d53e957538b5fe67dcf.png",
+    "static/media/logo-css3.png": "/portfolio-brunet/static/media/logo-css3.17ca133b9447e300cb1b.png",
+    "static/media/logo-wave.jpeg": "/portfolio-brunet/static/media/logo-wave.bef3eddb78f0fdf4d70f.jpeg",
+    "static/media/logo-html5.png": "/portfolio-brunet/static/media/logo-html5.b0856aab19f67181616a.png",
+    "static/media/logo-gtmetrix.webp": "/portfolio-brunet/static/media/logo-gtmetrix.aa6e38f5f44e2881a9e8.webp",
+    "static/media/slick.svg": "/portfolio-brunet/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio-brunet/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio-brunet/index.html",
+    "main.84fca507.css.map": "/portfolio-brunet/static/css/main.84fca507.css.map",
+    "main.32488755.js.map": "/portfolio-brunet/static/js/main.32488755.js.map",
+    "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84fca507.css",
+    "static/js/main.32488755.js"
+  ]
+}

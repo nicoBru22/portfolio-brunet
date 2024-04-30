@@ -13,7 +13,7 @@ function PropProjets(props) {
               src={props.imageUrl}
               alt={props.imageDescription}
             />
-            <div className="bulleInfo">{props.descriptionProjet}</div>
+            <div className="enSavoirPlus">En savoir plus</div>
           </div>
         </Link>
       </div>

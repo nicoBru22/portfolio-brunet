@@ -1,0 +1,10 @@
+.divLigne {
+    display: flex;
+    justify-content: center;
+}
+
+.ligne {
+    width: 50%; /* Ajoutez la largeur souhaitée */
+    height: 1px; /* Ajoutez la hauteur souhaitée */
+    background-color: black; /* Changez la couleur selon vos besoins */
+}

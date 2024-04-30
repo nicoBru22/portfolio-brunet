@@ -3,12 +3,7 @@ import "../styles/Element-projet.css"
 
 function ElementProjet(props){
     return (
-        <div className="ElementProjet">
-            <div className="ResumeProjet">
-                <h1 className="titreProjet">{props.titreProjet}</h1>
-                <h2 className="objectifsProjet">{props.objectifs}</h2>
-                <h2 className="technosProjet">{props.technos}</h2>
-            </div>
+        <div className="divElementProjet">
             <div className={props.classname}>
                 <div className="divImage">
                     <img
@@ -18,7 +13,7 @@ function ElementProjet(props){
                     />
                 </div>
                 <div className="explicationProjet">
-                    <p>{props.description}</p>
+                    <p className="descriptionProjet">{props.description}</p>
                 </div>
             </div>
         </div>

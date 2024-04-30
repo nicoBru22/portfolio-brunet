@@ -1,11 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../styles/RetourAccueil.css"
 
 function RetourAccueil() {
     return (
         <div>
             <Link to="/portfolio-brunet">
-                <div>Retour vers la page d'accueil</div>
+                <button className="buttonRetourAccueil">Retour vers la page d'accueil</button>
             </Link>
         </div>
     );

@@ -18,6 +18,13 @@ function HomePage() {
     return (
         <div>
             <MetaData />
+            <noscript>
+                <iframe 
+                    src="https://www.googletagmanager.com/ns.html?id=GTM-TLFVDNV5"
+                    height="0" width="0" 
+                    style={{ display: 'none', visibility: 'hidden' }}
+                ></iframe>
+            </noscript>
             <Header />
             <SectionAccueil />
             <Banner

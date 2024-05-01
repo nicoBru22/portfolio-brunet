@@ -2,7 +2,7 @@ import React from "react";
 import Presentation from "../components/Presentation.js";
 import PropTitreSection from "../components/PropTitreSection.js";
 import "../styles/SectionPresentation.css";
-import CartesFormation from "../components/CarteFormation.js";
+import CollapseFormExp from "../components/CollapseFormationExp.js";
 
 
 function SectionPresentation(){
@@ -13,7 +13,7 @@ function SectionPresentation(){
                 soustitreSection="Découvrez qui je suis et faisons connaissance"
             />
             <Presentation />
-            <CartesFormation />
+            <CollapseFormExp />
         </section>
     );
 }

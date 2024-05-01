@@ -46,11 +46,6 @@ function Referencement() {
                     </div>
                 </div>
             </div>
-            <div className="meContacter">                    
-                <a href="#sectionContact" >
-                    <div className="accueilContact">Contactez-moi !</div>
-                </a>
-            </div>
         </div>
     );
 }

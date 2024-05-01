@@ -24,11 +24,6 @@ function CreationSiteWeb() {
                     <div className="divCreationWeb">Avant la mise en ligne, je teste minutieusement votre site web sur différents appareils et navigateurs pour m'assurer qu'il fonctionne correctement et qu'il offre une expérience utilisateur optimale.</div>
                 </div>
             </div>
-            <div className="meContacter">                    
-                <a href="#sectionProjet" >
-                    <div className="buttonService">Projets réalisés</div>
-                </a>
-            </div>
         </div>
     );
 }

@@ -29,7 +29,7 @@
     position: absolute;
     height: 100%;
     width: 100%;
-    background: brown;
+    background: black;
     backface-visibility: hidden;
     transform: rotateY(-180deg);
     border-radius: 20px;

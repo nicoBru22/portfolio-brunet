@@ -3,34 +3,75 @@ import PropTitreSection from "../components/PropTitreSection";
 import Carousel from "../components/Carousel";
 import BarreProgres from "../components/BarreProgres";
 import "../styles/SectionCompetence.css"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faDatabase, faCode, faChalkboard, faMagnifyingGlass} from "@fortawesome/free-solid-svg-icons";
 
 function SectionCompetences(){
     return(
-        <section id="sectionCompetence">
+        <section id="sectionCompetence" className="sectionCompetence">
             <PropTitreSection
-                titreSection="Skills - Mon panel de compétence"
+                titreSection="Mes compétences"
+                soustitreSection="Plongez vous dans mes compétences et découvrez comment nous pouvons collaborer pour donner 
+                vie à vos projets web !"
             />
-            <div className="divParagrapheProgres">
                 <div className="paragrapheCompetence">
-                    De la conception de sites web élégants à l'optimisation de performances côté 
-                    serveur, je suis là pour concrétiser vos projets.
-                    <br></br>Mes compétences englobent, entre autres, le développement front-end avec des technologies 
-                    comme HTML, CSS, et JavaScript, ainsi que le développement back-end avec des langages tels 
-                    que PHP8, Node.js.
-                    <br></br>Explorez mes compétences ci-dessous et découvrez comment nous pouvons collaborer pour donner 
-                    vie à vos projets web !
-                    <div>
-                        <div>Front-end : Html, Css, javascript, React</div>
-                        <div>Back-end : Node.js, Express.js</div>
-                        <div>Base de donnée : MongoDB</div>
-                        <div>Referencement et SEO : Wave, Google Lighthouse, GT Metrix</div>
+                    <div className="competences">
+                        <div className="competence">
+                        <div className="titreTechno">
+                                <h3 className="titreCompentence">Front-end :</h3>
+                                <div className="technoCompetence">Html, Css, javascript, React</div>
+                            </div>
+                            <div className="divCercle">
+                                <div className="cercle">
+                                    <FontAwesomeIcon icon={faChalkboard} className="icone" />
+                                </div>
+                            </div>
+
+                        </div>
+                        <div className="competence">
+                            <div className="titreTechno">
+                                <h3 className="titreCompentence">Back-end :</h3>
+                                <div className="technoCompetence">Node.js, Express.js</div>
+                            </div>
+                            <div className="divCercle">
+                                <div className="cercle">
+                                    <FontAwesomeIcon icon={faCode} className="icone" />
+                                </div>
+                            </div>
+
+                        </div>
+                        <div className="competence">
+                        <div className="titreTechno">
+                                <h3 className="titreCompentence">Base de donnée :</h3>
+                                <div className="technoCompetence">MongoDB</div>
+                            </div>
+                            <div className="divCercle">
+                                <div className="cercle">
+                                    <FontAwesomeIcon icon={faDatabase} className="icone" />
+                                </div>
+                            </div>
+
+                        </div>
+                        <div className="competence">
+                        <div className="titreTechno">
+                                <h3 className="titreCompentence">Referencement et SEO :</h3>
+                                <div className="technoCompetence">Wave, Google Lighthouse, GT Metrix</div>
+                            </div>
+                            <div className="divCercle">
+                                <div className="cercle">
+                                    <FontAwesomeIcon icon={faMagnifyingGlass} className="icone" />
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div className="divCarousel">
+                        <Carousel />
                     </div>
                 </div>
-                <BarreProgres />
-            </div>
 
+           
 
-            <Carousel />
         </section>
     );
 }

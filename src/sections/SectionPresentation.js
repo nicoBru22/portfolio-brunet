@@ -7,9 +7,10 @@ import CartesFormation from "../components/CarteFormation.js";
 
 function SectionPresentation(){
     return(
-        <section id="sectionPresentation">
+        <section id="sectionPresentation" className="sectionPresentation">
             <PropTitreSection 
                 titreSection="Présentation"
+                soustitreSection="Découvrez qui je suis et faisons connaissance"
             />
             <Presentation />
             <CartesFormation />

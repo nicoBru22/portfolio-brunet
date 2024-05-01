@@ -1,8 +1,31 @@
-.imgTechno{
-    height: 100px;
-}
 .divTechno {
     display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center; /* Centrer verticalement */
+}
+.divCarousel {
     justify-content: center;
-    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.imgTechno {
+    height: 200px;
+    width: 200px;
+}
+.slider {
+    width: 200px;
+}
+.slick-slide {
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center; /* Centrer verticalement */
+    height: 100%; /* Assurez-vous que chaque diapositive prend toute la hauteur */
+}
+.slick-slider {
+    height: 500px;
+}
+.carousel-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover /* Ajustez la taille de l'image pour qu'elle rentre dans la diapositive */
 }

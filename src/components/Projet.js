@@ -30,7 +30,7 @@ function Projets(){
             <PropProjets
                 to="/portfolio-brunet/projet3"
                 className="projet3"
-                titreProjet="Site de Menu-Maker by Qwenta"
+                titreProjet="Menu-Maker by Qwenta"
                 imageUrl={imageProjet3}
                 imageDescription="Description de votre image"
                 descriptionProjet="Objectif : Développer le site d'une entreprise de création de menu de restaurant en ligne."

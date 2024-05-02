@@ -3,6 +3,7 @@ import Collapse from "./Collapse";
 import FormationDev from "./FormationDev";
 import AutresFormations from "./AutresFormations";
 import AutresExperiences from "./AutresExperiences";
+import ExpPro from "./ExpPro";
 import "../styles/CollapseFormExp.css";
 
 function CollapseFormExp() {
@@ -18,6 +19,7 @@ function CollapseFormExp() {
             />
             <Collapse 
                 titre={"Expériences professionnelles"}
+                contenu={<ExpPro />}
 
             />
             <Collapse 

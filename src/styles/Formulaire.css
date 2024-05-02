@@ -1,6 +1,18 @@
-.buttonForm{
+.buttonForm {
     height: 40px;
     width: 200px;
+    border-radius: 20px;
+    border: 5px solid #bfbfbf;
+    cursor: pointer;
+    background-color: white;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.buttonForm:hover {
+    background-color: black;
+    color: white;
+    border: 5px solid #bfbfbf;
+    ;
 }
 .divForm {
     display: flex;
@@ -9,13 +21,21 @@
     flex-direction: column;
     width: 70%;
 }
-.divButtonForm{
+.divButtonForm {
     width: 100%;
-}
+    justify-content: end;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+  }
 .divF{
-    background-color: burlywood;
+    background-color: #80808024;
     width: 70%;
     padding: 10px;
+}
+.divMessagerie {
+    font-size: 15px;
 }
 .formulaireContact {
     display: flex;
@@ -24,7 +44,7 @@
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    height: 400px;
+    height: 500px;
 }
 .iconForm{
     background-color: grey;

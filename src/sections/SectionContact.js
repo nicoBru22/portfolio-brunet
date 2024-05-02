@@ -6,7 +6,7 @@ import "../styles/SectionContact.css";
 
 function SectionContact(){
     return(
-        <section id="sectionContact" style={{backgroundColor: "#bfbfbf"}}>
+        <section id="sectionContact">
                         <PropTitreSection
                 titreSection="Contact"
             />

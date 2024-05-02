@@ -17,10 +17,6 @@ function AutresExpériences() {
                 organisme={"Comité Pralympique Sportif Français"}
                 periode={"Depuis 2022"}/>
             <ElementFormation 
-                intitule={"Réserviste Opérationnel"}
-                organisme={"Gendarmerie Nationale"}
-                periode={"Depuis 2021"}/>
-            <ElementFormation 
                 intitule={"Membre (président de 2016 à 2018)"}
                 organisme={"Rotaract Malouin"}
                 periode={"Depuis 2016"}/>

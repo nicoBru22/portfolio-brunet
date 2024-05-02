@@ -14,6 +14,10 @@ function AutresFormations() {
                 organisme={"Université Rennes 2"}
                 periode={"2016-2019"}/>
             <ElementFormation 
+                intitule={"Premiers Secours en Santé Mentale"}
+                organisme={"PSSM France"}
+                periode={"2022"}/>
+            <ElementFormation 
                 intitule={"Formateur PRAP 2S"}
                 organisme={"INRS"}
                 periode={"2023-2024"}/>

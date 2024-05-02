@@ -1,25 +1,43 @@
+
 .buttonCollapse {
-    width: 80%;
-    cursor: pointer;
-    border-radius: 40px;
-    margin-bottom: 20px;
+width: 80%;
+cursor: pointer;
+border-radius: 40px;
+margin-bottom: 20px;
 }
+
 .collapse {
-    width: 60%;
-    margin: 20px;
+width: 60%;
+margin: 20px;
 }
+
 .contenu {
-    width: 100%;
-    background-color: #0000ff3d;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+width: 100%;
+background-color: black;
+border-radius: 20px;
+margin-top: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+
 }
+
 .elementButtonCollapse {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    font-size: 20px;
-    width: 95%;
+display: flex;
+justify-content: space-between;
+padding: 10px;
+font-size: 20px;
+width: 95%;
+
 }
+
+/* Animation d'écriture */
+@keyframes open {
+  from {
+    height: 0;
+  }
+  to {
+    height: 800px;
+  }
+}
+
+  

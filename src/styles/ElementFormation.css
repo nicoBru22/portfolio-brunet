@@ -4,6 +4,21 @@
     text-align: initial;
     margin: 10px;
     padding: 10px;
-    background-color: #808080cf;
+    background-color: #F8F8FF;
     border-radius: 10px;
+
+
+overflow: hidden; /* Cache tout le texte dépassant de la zone de texte */
+max-height: 100%;
+animation: open 2s;
 }
+
+/* Animation d'écriture */
+@keyframes open {
+    from {
+      height: 0px;
+    }
+    to {
+      height: 57px;
+    }
+  }

@@ -27,12 +27,7 @@ function HomePage() {
             </noscript>
             <Header />
             <SectionAccueil />
-            <Banner
-                imageUrl={Paysage1}
-                accroche="La curiosité est le moteur de la connaissance, 
-                    un feu sacré qui anime l'esprit et éclaire le 
-                    chemin vers de nouveaux horizons."
-            />
+
             <SectionPresentation />
             <Banner
                 imageUrl={Paysage2}
@@ -53,11 +48,11 @@ function HomePage() {
                     donnons forme à notre existence"
             />
             <SectionServices />
-            <Banner 
-                accroche="Au-delà des écrans se cachent des récits 
-                    d'inspiration et d'ingéniosité. Laissez-vous 
-                    emporter dans un voyage où chaque clic révèle 
-                    une nouvelle facette de mon travail."
+            <Banner
+                imageUrl={Paysage1}
+                accroche="La curiosité est le moteur de la connaissance, 
+                    un feu sacré qui anime l'esprit et éclaire le 
+                    chemin vers de nouveaux horizons."
             />
             <SectionContact />
             <Footer />

@@ -2,17 +2,22 @@
     position: relative;
     height: 850px;
     width: 40%;
+    perspective: 1000px; /* Ajout de la perspective */
 }
-.carteConteneur:hover .carte {
+
+.carteConteneur.retournee .carte {
     transform: rotateY(180deg);
 }
+
 .carte {
-    position: absolute;
+    position: relative; /* Changement de la position en relative */
     height: 100%;
     width: 100%;
     transition: all 0.3s ease;
     transform-style: preserve-3d;
+    cursor: pointer;
 }
+
 .carteRecto {
     position: absolute;
     height: 100%;
@@ -25,6 +30,7 @@
     flex-direction: column;
     align-items: center;
 }
+
 .carteVerso {
     position: absolute;
     height: 100%;
@@ -36,9 +42,15 @@
     display: flex;
     align-items: center;
 }
+
 .contenuCarte {
     width: 100%;
 }
+.cliquez {
+    padding: 20px;
+    font-style: italic;
+}
+
 .divIconeRetournement {
     height: 100%;
     width: 100%;
@@ -46,6 +58,7 @@
     display: flex;
     justify-content: flex-end;
 }
+
 .titreCarte {
     align-items: center;
     justify-content: center;
@@ -53,6 +66,11 @@
     font-size: 40px;
     position: absolute;
 }
+
 .iconeRetournement {
     padding: 10px;
+}
+
+.cache {
+    display: none;
 }

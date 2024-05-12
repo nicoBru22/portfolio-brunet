@@ -3,6 +3,7 @@ import '../styles/BlocAccueil.css';
 import picture from "../images/photo-presentation-brunet-nicolas.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
+import logo from "../images/logo-Brunet-Nicolas-Developpeur-Web.png"
 
 function BlocAccueil(){
     return(
@@ -20,6 +21,9 @@ function BlocAccueil(){
                                     Développeur Web
                                 </h2>
                             </div>
+                            <div className="logoResponsive">
+                                <img src= {logo} className="logoAccueil"></img>
+                            </div>
                             <div>
                                 <div className="bienvenue">
                                     "Envie de transformer vos idées en réalité ?  
@@ -31,8 +35,6 @@ function BlocAccueil(){
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                     <div className="versSection">
                         <div className="phraseSavoir">
@@ -52,6 +54,9 @@ function BlocAccueil(){
                                     <a href="#sectionProjet" className="meContacter" >Projets ?</a>
                             </div>
                         </div>
+
+                    </div>
+                    <div className="divFleche">
                         <a href="#sectionPresentation">
                             <div className="divIconFlecheS">
                                 <FontAwesomeIcon icon={faArrowDown} className="iconeFlecheBas" />

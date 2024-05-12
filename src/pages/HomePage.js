@@ -9,10 +9,12 @@ import SectionServices from '../sections/SectionServices.js';
 import Footer from '../sections/Footer.js';
 import MetaData from '../components/MetaData.js';
 import Banner from '../components/Banner.js';
-import Paysage1 from "../images/paysage1.jpg";
-import Paysage2 from "../images/paysageMars.webp";
-import Paysage3 from "../images/paysageForet.webp";
-import Paysage4 from "../images/paysageFantastic.webp";
+import Merci from '../images/merci.jpg'
+import Responsive from '../images/responsive.jpg'
+import Cafe from '../images/cafe.jpg'
+import Ordi from '../images/ordi.jpg'
+
+import "../styles/mediaQueries/Phone.css"
 
 function HomePage() {
     return (
@@ -30,26 +32,27 @@ function HomePage() {
 
             <SectionPresentation />
             <Banner
-                imageUrl={Paysage2}
-                accroche="Explorez mes projets et laissez-vous captiver par l'ingéniosité qui se cache derrière chaque ligne de code. Chaque site web est une histoire à découvrir."
+                imageUrl={Cafe}
+                accroche="Explorez mes projets et laissez-vous captiver par l'ingéniosité qui se cache derrière chaque 
+                            ligne de code. Chaque site web est une histoire à découvrir."
             />
             <SectionCompetences />
             <Banner
-                imageUrl={Paysage3}
+                imageUrl={Ordi}
                 accroche="Dans l'écheveau du web, chaque clic ouvre 
                     une porte vers l'inconnu, où les idées se 
                     croisent et se réinventent."
             />
             <SectionProjets />
             <Banner
-                imageUrl={Paysage4}
+                imageUrl={Responsive}
                 accroche="Le travail est le reflet de l'âme, un moyen 
                     par lequel nous sculptons notre destinée et 
                     donnons forme à notre existence"
             />
             <SectionServices />
             <Banner
-                imageUrl={Paysage1}
+                imageUrl={Merci}
                 accroche="La curiosité est le moteur de la connaissance, 
                     un feu sacré qui anime l'esprit et éclaire le 
                     chemin vers de nouveaux horizons."

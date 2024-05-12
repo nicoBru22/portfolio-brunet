@@ -1,11 +1,12 @@
 .divPresentation{
     display: flex;
+    height: 100%;
 }
 .imgPresentation{
     width: 40%;
     object-fit: cover;
 }
-.txtPresentation {
+.divTxtPresentation {
     background-color: #80808024;
     width: 60%;
     padding: 50px;

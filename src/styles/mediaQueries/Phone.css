@@ -1,0 +1,182 @@
+@media (max-width: 768px) {
+/* global */
+    .propTitreSection {
+        margin-bottom: auto;
+    }
+
+/* gestion du menu*/
+    .logo {
+        display: none;
+    }
+    .menu {
+        display: none;
+    }
+    .menuHamburger {
+        display: flex;
+    }
+    .titreHeader {
+        display: none;
+    }
+
+/* gestion de la section accueil */
+    .imgAccueil {
+        display: none;
+    }
+    .bienvenue {
+        color: black;
+    }
+    .blocAccroche {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 15px;
+    }
+    .iconeFlecheBas {
+        color: black;
+    }
+    .metier {
+        color: black;
+    }
+    .superposition {
+    height: auto;
+    }
+    .versSection {
+        display: none;
+    }
+
+/* gestion de la section présentation */
+    .buttonCollapse {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+    .collapse {
+        width: 100%;
+    }
+    .divPresentation {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .divTxtPresentation {
+        margin: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        width: 100%;
+        padding: 0px;
+    }
+    .imgPresentation {
+        width: 100%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .sectionPresentation {
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px; 
+    }
+    .txtPresentation {
+        padding: 20px;
+    }
+
+/* gestion de la section compétence */
+    .competence {
+        width: auto;
+    }
+    .divCarousel {
+        display: none;
+    }
+    .sectionCompetence {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    .titreTechno {
+        width: auto;
+    }
+
+/* gestion de la section service */
+    .sectionServices {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+    #sectionServices {
+        padding: 15px;
+        margin-bottom: 40px;
+    }
+    .carteConteneur {
+        width: 100%;
+        margin-bottom: 40px;
+        height: 600px;
+    }
+    .cartes {
+        flex-direction: column;
+        padding: 0px;
+    }
+    .divCreationWeb {
+        display: none;
+    }
+    .divSEO {
+        display: none;
+    }
+
+
+
+/* gestion de la section projet */
+    .sectionProjet {
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+/* gestion de la section contact */
+    .contactForm {
+        flex-direction: column-reverse;
+    }
+    .divLogoRS {
+        width: 90px;
+        height: 90px;
+        justify-content: center;
+        display: flex;
+    }
+    .divF {
+        width: 100%;
+    }
+    .divForm {
+        width: 100%;
+    }
+    .logosReseaux {
+        display: flex;
+        justify-content: center;
+    }
+    .reseauxSociaux {
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+/* gestion du Footer */
+    .divFooter {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer {
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+    .footer {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+    .mentionsLegales {
+        margin-bottom: 20px;
+    }
+}

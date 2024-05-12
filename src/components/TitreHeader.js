@@ -2,7 +2,7 @@ import React from "react";
 
 function TitreHeader() {
     return(
-        <div>
+        <div className="titreHeader">
             <p>Portfolio de BRUNET Nicolas - Développeur Web</p>
         </div>
     );

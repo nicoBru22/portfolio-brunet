@@ -1,0 +1,49 @@
+.menuHamburger {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .hamburger {
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 10px;
+    font-size: 50px;
+  }
+  
+  .hamburger:focus {
+    outline: none; /* Supprime le contour de focus */
+  }
+  
+  .menu-items {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    position: absolute;
+    top: 100%; /* Positionne le menu sous le bouton hamburger */
+    left: 0;
+    background-color: #fff; /* Couleur de fond du menu */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre pour le menu */
+    border-radius: 4px; /* Coins arrondis */
+    z-index: 1000; /* Assure que le menu apparaît au-dessus de tout le reste */
+  }
+  
+  .menu-items.open {
+    display: block;
+    text-align: initial;
+  }
+  
+  .menu-items li {
+    padding: 10px;
+  }
+  
+  .menu-items li a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .menu-items li a:hover {
+    color: #666;
+  }

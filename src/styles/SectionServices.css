@@ -4,3 +4,27 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+.tester {
+    background-color: blue;
+    width: 50%;
+
+    animation: testanimation 3s;
+}
+.conteneurtest {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+@keyframes testanimation {
+    from {
+        width: 0%;
+        height: 50%;
+    }
+    to {
+        width: 50%;
+        height: 100%;
+    }
+}

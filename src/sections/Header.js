@@ -3,6 +3,7 @@ import '../styles/Header.css';
 import Menu from '../components/Menu';
 import Logo from '../components/Logo';
 import TitreHeader from '../components/TitreHeader';
+import MenuHamburger from '../components/MenuHamburger';
 
 function Header(){
     const [isHeaderVisible, setHeaderVisible] = useState(true);
@@ -29,6 +30,7 @@ function Header(){
             <Logo />
             <TitreHeader />
             <Menu />
+            <MenuHamburger />
         </div>
     );
 }

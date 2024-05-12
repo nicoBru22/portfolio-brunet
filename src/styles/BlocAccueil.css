@@ -43,6 +43,10 @@
     justify-content: center;
     margin: 20px;
 }
+.divFleche {
+    display: flex;
+    justify-content: center;
+}
 .divIconFlecheS {
     height: 50px;
     width: 40px;
@@ -62,6 +66,9 @@
 .iconeFlecheBas {
     height: 100%;
     color: white;
+}
+.logoAccueil {
+    width: 75%;
 }
 .metier {
     font-size: 55px;

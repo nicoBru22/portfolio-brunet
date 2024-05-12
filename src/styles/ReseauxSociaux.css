@@ -1,5 +1,4 @@
 .contactRS {
-    font-size: 25px;
     margin: 20px;
 }
 .divLogoRS {
@@ -13,5 +12,5 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    width: 30%;
+    width: 100%;
 }

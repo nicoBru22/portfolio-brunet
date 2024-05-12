@@ -35,16 +35,14 @@ function Projets(){
                 imageDescription="Description de votre image"
                 descriptionProjet="Objectif : Développer le site d'une entreprise de création de menu de restaurant en ligne."
             />
-            <a href="https://nicobru22.github.io/projet4/">
-                <PropProjets
-                    to="/portfolio-brunet/projet4"
-                    className="projet4"
-                    titreProjet="Nina Carducci, photographe"
-                    imageUrl={imageProjet4}
-                    imageDescription="Image du site"
-                    descriptionProjet="Objectif : Débugger et otpimiser un site de photographe."
-                />
-            </a>
+            <PropProjets
+                to="/portfolio-brunet/projet4"
+                className="projet4"
+                titreProjet="Nina Carducci, photographe"
+                imageUrl={imageProjet4}
+                imageDescription="Image du site"
+                descriptionProjet="Objectif : Débugger et otpimiser un site de photographe."
+            />
             <PropProjets
                 to="/portfolio-brunet/projet5"
                 className="projet5"

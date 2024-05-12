@@ -18,7 +18,8 @@ border-radius: 20px;
 margin-top: 20px;
 padding-top: 5px;
 padding-bottom: 5px;
-
+transform-origin: top;
+animation: ouvertureCollapse 2s;
 }
 
 .elementButtonCollapse {
@@ -27,17 +28,15 @@ justify-content: space-between;
 padding: 10px;
 font-size: 20px;
 width: 95%;
-
 }
 
-/* Animation d'écriture */
-@keyframes open {
+
+
+@keyframes ouvertureCollapse {
   from {
-    height: 0;
+    transform: scaleY(0);
   }
   to {
-    height: 800px;
+    transform: scaleY(1);
   }
 }
-
-  

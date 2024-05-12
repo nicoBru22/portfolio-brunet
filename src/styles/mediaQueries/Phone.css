@@ -3,6 +3,15 @@
     .propTitreSection {
         margin-bottom: auto;
     }
+    .titreSection {
+        font-size: 30px;
+    }
+    .soustitreSection {
+        font-size: 20px;
+    }
+    .banner-text {
+        font-size: 20px;
+    }
 
 /* gestion du menu*/
     .logo {
@@ -17,6 +26,10 @@
     .titreHeader {
         display: none;
     }
+    .header {
+        padding: 0px;
+        height: 100px;
+    }
 
 /* gestion de la section accueil */
     .imgAccueil {
@@ -24,6 +37,7 @@
     }
     .bienvenue {
         color: black;
+        font-size: 15px;
     }
     .blocAccroche {
         display: flex;
@@ -36,6 +50,7 @@
     }
     .metier {
         color: black;
+        font-size: 30px;
     }
     .superposition {
     height: auto;
@@ -49,8 +64,14 @@
         width: 90%;
         margin-bottom: 10px;
     }
+    .elementButtonCollapse {
+        font-size: 17px;
+    }
     .collapse {
         width: 100%;
+    }
+    .contenu {
+        font-size: 15px;
     }
     .divPresentation {
         display: flex;
@@ -78,38 +99,57 @@
     }
     .txtPresentation {
         padding: 20px;
+        font-size: 15px;
     }
 
 /* gestion de la section compétence */
     .competence {
         width: auto;
     }
+    .competences {
+        margin-right: 0px;
+    }
     .divCarousel {
         display: none;
+    }
+    .paragrapheCompetence {
+        padding: 0px;
     }
     .sectionCompetence {
         margin-top: 20px;
         margin-bottom: 20px;
-        padding: 20px;
+        padding: 15px;
+    }
+    .technoCompetence {
+        font-size: 15px;
+    }
+    .titreCompentence {
+        font-size: 17px;
     }
     .titreTechno {
         width: auto;
     }
+    
 
 /* gestion de la section service */
-    .sectionServices {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        padding: 15px;
+    .cliquez {
+        font-size: 15px;
+    }
+    .contenuCreationWeb {
+        font-size: 15px;
+    }
+    .contenuRefenrecement {
+        font-size: 15px;
     }
     #sectionServices {
         padding: 15px;
-        margin-bottom: 40px;
-    }
+        margin-bottom: 20px;
+        margin-top: 20px;
+        }
     .carteConteneur {
         width: 100%;
         margin-bottom: 40px;
-        height: 600px;
+        height: 500px;
     }
     .cartes {
         flex-direction: column;
@@ -121,6 +161,9 @@
     .divSEO {
         display: none;
     }
+    .titreCarte {
+        font-size: 30px;
+    }
 
 
 
@@ -130,10 +173,39 @@
         margin-top: 20px;
         margin-bottom: 20px;
     }
+    .titreProjet {
+        font-size: 17px;
+    }
+    .imgProjet {
+        width: 100%;
+        height: 239px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    .projet {
+        margin-bottom: 0px;
+        width: 300px;
+        height: 300px;
+    }
 
 /* gestion de la section contact */
     .contactForm {
         flex-direction: column-reverse;
+    }
+    .coordonneesVille {
+        font-size: 15px;
+    }
+    .coordonneesPays {
+        font-size: 15px;
+    }
+    .telephone {
+        font-size: 15px;
+    }
+    .adresseMail {
+        font-size: 15px;
+    }
+    .contactRS {
+        font-size: 20px;
     }
     .divLogoRS {
         width: 90px;
@@ -147,17 +219,35 @@
     .divForm {
         width: 100%;
     }
+    .labelInput {
+        margin-bottom: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+    }
     .logosReseaux {
         display: flex;
         justify-content: center;
+    }
+    .mesCoordonnees {
+        font-size: 20px;
     }
     .reseauxSociaux {
         width: 100%;
         justify-content: center;
         flex-direction: column;
     }
+    #sectionContact {
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 
 /* gestion du Footer */
+    .copyright {
+        height: auto;
+        font-size: 15px;
+    }
     .divFooter {
         width: 100%;
         display: flex;
@@ -178,5 +268,17 @@
     }
     .mentionsLegales {
         margin-bottom: 20px;
+    }
+    .mentionLegale {
+        font-size: 20px;
+    }
+    .presentationNom {
+        font-size: 20px;
+    }
+    .presentationObjet {
+        font-size: 15px;
+    }
+    .siteReact {
+        font-size: 15px;
     }
 }

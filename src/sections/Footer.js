@@ -17,9 +17,9 @@ function Footer(){
                 <div className='adresseMail'>brunet.nicolas35@gmail.com</div>
             </div>
             <div className='mentionsLegales divFooter'>
-                <h2>Mentions légales :</h2>
-                <div>Site créé avec React</div>
-                <div>@ Copyright | BRUNET Nicolas tous droits réservés </div>
+                <h2 className='mentionLegale'>Mentions légales :</h2>
+                <div className='siteReact'>Site créé avec React</div>
+                <div className='copyright'>@ Copyright | BRUNET Nicolas tous droits réservés </div>
             </div>
         </div>
     );

@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Menu.css';
+import cv from "../documents/cv-brunet-nicolas.pdf"
 
 function Menu() {
     return (
@@ -11,7 +12,7 @@ function Menu() {
                 <li><a href="#sectionCompetence" className='elementMenu'>Compétence</a></li>
                 <li><a href="#sectionServices" className='elementMenu'>Services</a></li>
                 <li><a href="#sectionContact" className='elementMenu'>Contact</a></li>
-                <li><a href="#cv" className='elementMenu'>Mon CV</a></li>
+                <li><a href={cv} className='elementMenu' download>Mon CV</a></li>
             </ul>
         </nav>
     );

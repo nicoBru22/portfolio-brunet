@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.051c377a.css",
-    "main.js": "/portfolio-brunet/static/js/main.e06ffd6f.js",
+    "main.css": "/portfolio-brunet/static/css/main.59adb3e2.css",
+    "main.js": "/portfolio-brunet/static/js/main.e5565621.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -21,9 +21,13 @@
     "static/media/Projet4-img2.png": "/portfolio-brunet/static/media/Projet4-img2.d48288c65b680be10d3f.png",
     "static/media/Projet6-img3.png": "/portfolio-brunet/static/media/Projet6-img3.2cb86a963d4d0c3c6867.png",
     "static/media/Projet1-img2.png": "/portfolio-brunet/static/media/Projet1-img2.e93b6f9b1985bcd4863d.png",
+    "static/media/merci.jpg": "/portfolio-brunet/static/media/merci.6082b9053a210e48bc65.jpg",
     "static/media/Projet2-img3.png": "/portfolio-brunet/static/media/Projet2-img3.06ad9a4b8b5cb5e8039c.png",
+    "static/media/cafe.jpg": "/portfolio-brunet/static/media/cafe.131e623510d566e23be2.jpg",
     "static/media/Projet3-img2.png": "/portfolio-brunet/static/media/Projet3-img2.382342428634b5cb838e.png",
     "static/media/logo-react.png": "/portfolio-brunet/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/responsive.jpg": "/portfolio-brunet/static/media/responsive.d6925a830036f2077f1d.jpg",
+    "static/media/ordi.jpg": "/portfolio-brunet/static/media/ordi.d310e908350826a53680.jpg",
     "static/media/logo-facebook.png": "/portfolio-brunet/static/media/logo-facebook.d752020dcaba29ed5d56.png",
     "static/media/Projet1-img1.png": "/portfolio-brunet/static/media/Projet1-img1.220e4f750cbcacb8b129.png",
     "static/media/Projet1-img3responsive.png": "/portfolio-brunet/static/media/Projet1-img3responsive.8a0a0b82cb74839aae56.png",
@@ -34,10 +38,6 @@
     "static/media/logo-expressjs.png": "/portfolio-brunet/static/media/logo-expressjs.0041f539466ce4960fa5.png",
     "static/media/logo-mongodb.png": "/portfolio-brunet/static/media/logo-mongodb.6a26ba5887586b8b7311.png",
     "static/media/logo-Brunet-Nicolas-Developpeur-Web.png": "/portfolio-brunet/static/media/logo-Brunet-Nicolas-Developpeur-Web.ff2912944b8dfbd24628.png",
-    "static/media/paysage1.jpg": "/portfolio-brunet/static/media/paysage1.bdb47ee6b253d86b7504.jpg",
-    "static/media/paysageFantastic.webp": "/portfolio-brunet/static/media/paysageFantastic.54e3fe9de05319836081.webp",
-    "static/media/paysageForet.webp": "/portfolio-brunet/static/media/paysageForet.f820bd765d691b593dea.webp",
-    "static/media/paysageMars.webp": "/portfolio-brunet/static/media/paysageMars.ca4ca0ec88e5665fcfc1.webp",
     "static/media/Projet6-img1.png": "/portfolio-brunet/static/media/Projet6-img1.d9edd927cc06d6e1b9be.png",
     "static/media/Projet6-img2.png": "/portfolio-brunet/static/media/Projet6-img2.78387fabb38aac3f73e7.png",
     "static/media/logo-pageSpeedInsights.png": "/portfolio-brunet/static/media/logo-pageSpeedInsights.1b37fc37ab0e5280c483.png",
@@ -51,12 +51,12 @@
     "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
-    "main.051c377a.css.map": "/portfolio-brunet/static/css/main.051c377a.css.map",
-    "main.e06ffd6f.js.map": "/portfolio-brunet/static/js/main.e06ffd6f.js.map",
+    "main.59adb3e2.css.map": "/portfolio-brunet/static/css/main.59adb3e2.css.map",
+    "main.e5565621.js.map": "/portfolio-brunet/static/js/main.e5565621.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.051c377a.css",
-    "static/js/main.e06ffd6f.js"
+    "static/css/main.59adb3e2.css",
+    "static/js/main.e5565621.js"
   ]
 }

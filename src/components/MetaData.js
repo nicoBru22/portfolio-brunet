@@ -8,6 +8,14 @@ function MetaData() {
       <Helmet>
         <title>Brunet Nicolas - Développeur Web</title>
         <meta name="description" content="Description de la page" />
+
+        <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
+        <meta property="og:description" content="Description de votre page" />
+        <meta property="og:url" content="URL de votre page" />
+        <meta property="og:image" content="URL de l'image à afficher sur LinkedIn" />
+        <meta property="og:type" content="type de contenu (ex: website)" />
+        <meta property="og:site_name" content="Nom de votre site" />
+
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>

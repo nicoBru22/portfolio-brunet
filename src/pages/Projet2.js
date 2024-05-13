@@ -9,6 +9,7 @@ import Image1 from "../images/Projets/Projet2-img1.png";
 import Image2 from "../images/Projets/Projet2-img2.png";
 import Image3 from "../images/Projets/Projet2-img3.png";
 import "../styles/Element-projet.css"
+import "../styles/mediaQueries/Phone.css"
 
 
 function Projet5() {

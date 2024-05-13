@@ -13,7 +13,7 @@ function ElementProjet(props){
                     />
                 </div>
                 <div className="explicationProjet">
-                    <p className="descriptionProjet">{props.description}</p>
+                    <div className="descriptionProjet">{props.description}</div>
                 </div>
             </div>
         </div>

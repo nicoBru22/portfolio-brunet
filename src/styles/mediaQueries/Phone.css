@@ -48,6 +48,9 @@
     .iconeFlecheBas {
         color: black;
     }
+    .logoResponsive {
+        display: block;
+    }
     .metier {
         color: black;
         font-size: 30px;
@@ -280,5 +283,22 @@
     }
     .siteReact {
         font-size: 15px;
+    }
+
+/* gestion des pages projet */
+
+    .divImage {
+        width: 100%;
+        height: 400px;
+    }
+    .explicationProjet {
+        width: 100%;
+        padding: 0px;
+    }
+    .ImgExplication {
+        flex-direction: column;
+    }
+    .ImgExplicationInverse {
+        flex-direction: column;
     }
 }

@@ -1,6 +1,7 @@
 .menuHamburger {
     width: 100%;
     justify-content: center;
+    display: none;
   }
   
   .hamburger {

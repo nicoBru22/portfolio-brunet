@@ -6,13 +6,18 @@
     justify-content: space-around;
     text-align: initial;
 }
+.coordonnees {
+    padding-right: 10px;
+}
 .copyright{
     color: white;
     display: flex;
     height: 100px;
-    justify-content: center;
-    align-items: center;
+}
+.mentionsLegales {
+    width: 33%;
 }
 .presentation {
-    width: 400px;
+    width: 33%;
+    padding-right: 10px;
 }

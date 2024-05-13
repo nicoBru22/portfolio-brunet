@@ -15,6 +15,7 @@ import Cafe from '../images/cafe.jpg'
 import Ordi from '../images/ordi.jpg'
 
 import "../styles/mediaQueries/Phone.css"
+import "../styles/mediaQueries/Tablette.css"
 
 function HomePage() {
     return (

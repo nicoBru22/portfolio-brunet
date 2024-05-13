@@ -1,0 +1,288 @@
+@media (min-width: 768px) and (max-width: 1250px) {
+/* global */
+.propTitreSection {
+    margin-bottom: auto;
+}
+.titreSection {
+    font-size: 30px;
+}
+.soustitreSection {
+    font-size: 20px;
+}
+.banner-text {
+    font-size: 20px;
+}
+
+/* gestion du menu*/
+.logo {
+    display: none;
+}
+.menu {
+    display: none;
+}
+.menuHamburger {
+    display: flex;
+}
+.titreHeader {
+    display: none;
+}
+.header {
+    padding: 0px;
+    height: 100px;
+}
+
+/* gestion de la section accueil */
+.accrocheImage {
+    display: flex;
+    height: 73%;
+  }
+  .boutonsSections {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: center;
+  }
+
+/* gestion de la section présentation */
+.buttonCollapse {
+    width: 90%;
+    margin-bottom: 10px;
+}
+.elementButtonCollapse {
+    font-size: 17px;
+}
+.collapse {
+    width: 100%;
+}
+.contenu {
+    font-size: 15px;
+}
+.divPresentation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divTxtPresentation {
+    margin: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 100%;
+    padding: 0px;
+}
+.imgPresentation {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.sectionPresentation {
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+.txtPresentation {
+    padding: 20px;
+    font-size: 15px;
+}
+
+/* gestion de la section compétence */
+.competence {
+    width: auto;
+}
+.competences {
+    margin-right: 0px;
+}
+.divCarousel {
+    display: none;
+}
+.paragrapheCompetence {
+    padding: 0px;
+}
+.sectionCompetence {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.technoCompetence {
+    font-size: 15px;
+}
+.titreCompentence {
+    font-size: 17px;
+}
+.titreTechno {
+    width: auto;
+}
+
+
+/* gestion de la section service */
+.cliquez {
+    font-size: 15px;
+}
+.contenuCreationWeb {
+    font-size: 15px;
+}
+.contenuRefenrecement {
+    font-size: 15px;
+}
+#sectionServices {
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    }
+.carteConteneur {
+    width: 100%;
+    margin-bottom: 40px;
+    height: 590px;
+}
+.cartes {
+    flex-direction: column;
+    padding: 0px;
+}
+.titreCarte {
+    font-size: 30px;
+}
+
+
+
+/* gestion de la section projet */
+.sectionProjet {
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.titreProjet {
+    font-size: 17px;
+}
+.imgProjet {
+    width: 100%;
+    height: 239px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.projet {
+    margin-bottom: 0px;
+    width: 300px;
+    height: 300px;
+}
+
+/* gestion de la section contact */
+.contactForm {
+    flex-direction: column-reverse;
+}
+.coordonneesVille {
+    font-size: 15px;
+}
+.coordonneesPays {
+    font-size: 15px;
+}
+.telephone {
+    font-size: 15px;
+}
+.adresseMail {
+    font-size: 15px;
+}
+.contactRS {
+    font-size: 20px;
+}
+.divLogoRS {
+    width: 90px;
+    height: 90px;
+    justify-content: center;
+    display: flex;
+}
+.divF {
+    width: 100%;
+}
+.divForm {
+    width: 100%;
+}
+.labelInput {
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.logosReseaux {
+    display: flex;
+    justify-content: center;
+}
+.mesCoordonnees {
+    font-size: 20px;
+}
+.reseauxSociaux {
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+#sectionContact {
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* gestion du Footer */
+    .copyright {
+        height: auto;
+        font-size: 15px;
+    }
+    .coordonneesContact {
+        width: 40%;
+    }
+    .CoordonneesRS {
+        display: flex;
+    }
+    .divFooter {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer {
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+    .footer {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+    .mentionsLegales {
+        margin-bottom: 20px;
+    }
+    .mentionLegale {
+        font-size: 20px;
+    }
+    .presentationNom {
+        font-size: 20px;
+    }
+    .presentationObjet {
+        font-size: 15px;
+    }
+    .reseauxSociaux {
+        width: 60%;
+    }
+    .siteReact {
+        font-size: 15px;
+    }
+
+/* gestion des pages projet */
+
+.divImage {
+    width: 100%;
+    height: 400px;
+}
+.explicationProjet {
+    width: 100%;
+    padding: 0px;
+}
+.ImgExplication {
+    flex-direction: column;
+}
+.ImgExplicationInverse {
+    flex-direction: column;
+}
+}

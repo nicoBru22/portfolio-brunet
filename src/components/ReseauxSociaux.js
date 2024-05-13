@@ -6,8 +6,8 @@ import LinkedIn from "../images/logo-linkedin.png";
 
 function ReseauxSociaux() {
     return(
-        <div>
-            <div>
+        <div className="CoordonneesRS">
+            <div className="coordonneesContact">
                 <div className='coordonnees divFooter'>
                     <h2 className='mesCoordonnees'>Mes coordonnées :</h2>
                     <div className='coordonneesVille'>Dinan, 22000</div>

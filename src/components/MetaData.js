@@ -1,20 +1,28 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import "../styles/MetaData.css";
+import Logo from './Logo';
 
 function MetaData() {
   return (
     <>
       <Helmet>
         <title>Brunet Nicolas - Développeur Web</title>
-        <meta name="description" content="Description de la page" />
+        <meta name="description" content="Portfolio du développeur web, BRUNET Nicolas" />
 
         <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="og:description" content="Description de votre page" />
+        <meta property="og:description" content="SIte du développeur Web BRUNET Nicolas" />
         <meta property="og:url" content="URL de votre page" />
-        <meta property="og:image" content="URL de l'image à afficher sur LinkedIn" />
-        <meta property="og:type" content="type de contenu (ex: website)" />
-        <meta property="og:site_name" content="Nom de votre site" />
+        <meta property="og:image" content={Logo} />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Développeur Web BRUNET Nicolas" />
+
+
+        <meta property="instgram:card" content="summary_large_image" />
+        <meta property="instgram:site" content="@votre_nom_utilisateur" />
+        <meta property="instgram:title" content="Développeur Web, BRUNET Nicolas" />
+        <meta property="instgram:description" content="SIte du développeur Web BRUNET Nicolas" />
+        <meta property="instgram:image" content={Logo} />
 
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>

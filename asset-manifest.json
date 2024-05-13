@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.03f28521.css",
-    "main.js": "/portfolio-brunet/static/js/main.20b3559b.js",
+    "main.css": "/portfolio-brunet/static/css/main.8fe1e480.css",
+    "main.js": "/portfolio-brunet/static/js/main.45c3d1c1.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -52,12 +52,12 @@
     "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
-    "main.03f28521.css.map": "/portfolio-brunet/static/css/main.03f28521.css.map",
-    "main.20b3559b.js.map": "/portfolio-brunet/static/js/main.20b3559b.js.map",
+    "main.8fe1e480.css.map": "/portfolio-brunet/static/css/main.8fe1e480.css.map",
+    "main.45c3d1c1.js.map": "/portfolio-brunet/static/js/main.45c3d1c1.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03f28521.css",
-    "static/js/main.20b3559b.js"
+    "static/css/main.8fe1e480.css",
+    "static/js/main.45c3d1c1.js"
   ]
 }

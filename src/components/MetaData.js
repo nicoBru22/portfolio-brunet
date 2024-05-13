@@ -11,18 +11,17 @@ function MetaData() {
         <meta name="description" content="Portfolio du développeur web, BRUNET Nicolas" />
 
         <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="og:description" content="SIte du développeur Web BRUNET Nicolas" />
+        <meta property="og:description" content="Site du développeur Web BRUNET Nicolas" />
         <meta property="og:url" content="URL de votre page" />
         <meta property="og:image" content={Logo} />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Développeur Web BRUNET Nicolas" />
 
-
-        <meta property="instgram:card" content="summary_large_image" />
-        <meta property="instgram:site" content="@votre_nom_utilisateur" />
-        <meta property="instgram:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="instgram:description" content="SIte du développeur Web BRUNET Nicolas" />
-        <meta property="instgram:image" content={Logo} />
+        <meta property="instagram:card" content="summary_large_image" />
+        <meta property="instagram:site" content="@votre_nom_utilisateur" />
+        <meta property="instagram:title" content="Développeur Web, BRUNET Nicolas" />
+        <meta property="instagram:description" content="Site du développeur Web BRUNET Nicolas" />
+        <meta property="instagram:image" content={Logo} />
 
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>

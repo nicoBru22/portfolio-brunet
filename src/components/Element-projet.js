@@ -1,5 +1,8 @@
 import React from "react";
+
 import "../styles/Element-projet.css"
+import "../styles/mediaQueries/Phone.css";
+import "../styles/mediaQueries/Tablette.css";
 
 function ElementProjet(props){
     return (

@@ -6,7 +6,10 @@ import Projet2 from '../pages/Projet2';
 import Projet3 from '../pages/Projet3';
 import Projet4 from '../pages/Projet4';
 import Projet5 from '../pages/Projet5';
-import Projet6 from '../pages/Projet6'
+import Projet6 from '../pages/Projet6';
+
+import "../styles/mediaQueries/Phone.css";
+import "../styles/mediaQueries/Tablette.css";
 
 function AppRoutes() {
   return (

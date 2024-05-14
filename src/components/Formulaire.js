@@ -7,7 +7,12 @@ function Formulaire(){
     return(
         <div className="divForm">
             <div className="divF">
-                <form action="mailto:brunet.nicolas35@gmail.com" method="post" encType="text/plain" className="formulaireContact">
+                <form 
+                    action="mailto:brunet.nicolas35@gmail.com?subject=Formulaire de contact du site Portfolio BRUNET Nicolas" 
+                    method="post" 
+                    encType="text/plain" 
+                    className="formulaireContact">
+
                     <div className="labelInput">
                         <label htmlFor="name">
                             <FontAwesomeIcon icon={faUser} className="iconForm"/>   

@@ -7,6 +7,7 @@
     text-align: justify;
     align-items: center;
     padding: 20px;
+    font-size: 30px;
 }
 .divElementProjet {
     padding: 20px;
@@ -28,3 +29,6 @@
     object-fit: contain;
     width: 100%;
 }
+.ResumeProjet {
+    font-size: 35px;
+  }

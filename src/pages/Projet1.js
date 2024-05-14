@@ -8,8 +8,10 @@ import IntroProjet from "../components/IntroProjet";
 import Image1 from "../images/Projets/Projet1-img1.png";
 import Image2 from "../images/Projets/Projet1-img2.png";
 import Image3 from "../images/Projets/Projet1-img3responsive.png";
+
 import "../styles/Element-projet.css"
 import "../styles/mediaQueries/Phone.css"
+import "../styles/mediaQueries/Tablette.css"
 
 
 function Projet1() {

@@ -3,7 +3,7 @@ import '../styles/Header.css';
 import MenuProjet from './MenuProjet';
 import Logo from './Logo';
 import TitreHeader from './TitreHeader';
-import MenuHamburger from './MenuHamburger';
+import MenuHamburgerProjet from './MenuHamburgerProjet.js';
 
 function Header(){
     const [isHeaderVisible, setHeaderVisible] = useState(true);
@@ -30,7 +30,7 @@ function Header(){
             <Logo />
             <TitreHeader />
             <MenuProjet />
-            <MenuHamburger />
+            <MenuHamburgerProjet />
 
         </div>
     );

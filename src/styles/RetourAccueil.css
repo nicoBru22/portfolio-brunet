@@ -1,8 +1,15 @@
 .buttonRetourAccueil {
-    margin: 40px;
+    margin: 20px;
     width: 30%;
     height: 60px;
     border-radius: 20px;
     font-size: 20px;
     cursor: pointer;
-  }
+    background-color: white;
+    border: 5px solid #bfbfbf;
+    transition: background-color 0.3s ease;
+}
+.buttonRetourAccueil:hover {
+  background-color: black;
+  color: white;
+}

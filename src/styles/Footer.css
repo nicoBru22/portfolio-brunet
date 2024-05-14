@@ -14,10 +14,7 @@
     display: flex;
     height: 100px;
 }
-.mentionsLegales {
-    width: 33%;
-}
 .presentation {
-    width: 33%;
     padding-right: 10px;
+    width: 25%;
 }

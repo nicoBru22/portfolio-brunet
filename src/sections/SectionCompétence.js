@@ -1,10 +1,12 @@
 import React from "react";
+
 import PropTitreSection from "../components/PropTitreSection";
 import Carousel from "../components/Carousel";
-import BarreProgres from "../components/BarreProgres";
-import "../styles/SectionCompetence.css"
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDatabase, faCode, faChalkboard, faMagnifyingGlass} from "@fortawesome/free-solid-svg-icons";
+
+import "../styles/SectionCompetence.css"
 
 function SectionCompetences(){
     return(

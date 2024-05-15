@@ -1,9 +1,12 @@
 import React from "react";
-import '../styles/BlocAccueil.css';
-import picture from "../images/photo-presentation-brunet-nicolas.webp";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
+
 import logoResponsive from "../images/logo-Brunet-Nicolas-Developpeur-Web.png"
+import picture from "../images/photo-presentation-brunet-nicolas.webp";
+
+import '../styles/BlocAccueil.css';
 
 function BlocAccueil(){
     return(

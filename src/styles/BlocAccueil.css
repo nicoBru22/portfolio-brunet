@@ -83,7 +83,7 @@
     width: 200px;
     height: 50px;
     border-radius: 20px;
-    border: 5px solid #bfbfbf;
+    border: 2px solid #bfbfbf;
     background-color: white;
     align-items: center;
     transition: background-color 0.3s ease;
@@ -92,6 +92,9 @@
     color: black;
     align-self: center;
     cursor: pointer;
+    background-color: transparent;
+    color: white;
+    backdrop-filter: blur(10px);
 }
 .meContacter:hover {
     background-color: black;

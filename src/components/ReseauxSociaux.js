@@ -20,17 +20,17 @@ function ReseauxSociaux() {
                 <h2 className="contactRS">Me contacter sur les réseaux sociaux !</h2> 
                 <div className="logosReseaux">
                     <div className="divLogoRS">
-                        <a href="https://www.facebook.com/profile.php?id=100010513450207" target="_blank">
+                        <a href="https://www.facebook.com/profile.php?id=100010513450207" target="_blank" rel="noreferrer">
                             <img src={Facebook} alt="Logo de Facebook" className="logoRéseauxSociaux"></img>
                         </a>
                     </div>
                     <div className="divLogoRS">
                         <a href="https://www.instagram.com/_nico_bnt/" target="_blank">
-                            <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux"></img>
+                            <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux" rel="noreferrer"></img>
                         </a>
                     </div>
                     <div className="divLogoRS">
-                        <a href="https://www.linkedin.com/in/nicolasbrunet1" target="_blank">
+                        <a href="https://www.linkedin.com/in/nicolasbrunet1" target="_blank" rel="noreferrer">
                             <img src={LinkedIn} alt="Logo de LinkedIn" className="logoRéseauxSociaux" />
                         </a>
                     </div>

@@ -1,7 +1,10 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import "../styles/MetaData.css";
+
 import Logo from './Logo';
+import logoResponsive from "../images/logo-Brunet-Nicolas-Developpeur-Web.webp"
+
+import "../styles/MetaData.css";
 
 function MetaData() {
   return (
@@ -9,6 +12,7 @@ function MetaData() {
       <Helmet>
         <title>Brunet Nicolas - Développeur Web</title>
         <meta name="description" content="Portfolio du développeur web, BRUNET Nicolas" />
+        <link rel="preload" href={logoResponsive} as="image" />
 
         <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
         <meta property="og:description" content="Site du développeur Web BRUNET Nicolas" />

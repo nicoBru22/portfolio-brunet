@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import '../styles/Header.css';
+
 import Menu from '../components/Menu';
 import Logo from '../components/Logo';
 import TitreHeader from '../components/TitreHeader';
 import MenuHamburger from '../components/MenuHamburger';
+
+import '../styles/Header.css';
 
 function Header(){
     const [isHeaderVisible, setHeaderVisible] = useState(true);

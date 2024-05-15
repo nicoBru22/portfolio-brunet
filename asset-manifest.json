@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.40177406.css",
-    "main.js": "/portfolio-brunet/static/js/main.2e14a1d4.js",
+    "main.css": "/portfolio-brunet/static/css/main.662d60c7.css",
+    "main.js": "/portfolio-brunet/static/js/main.00c8b82b.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -46,18 +46,19 @@
     "static/media/logo-css3.png": "/portfolio-brunet/static/media/logo-css3.17ca133b9447e300cb1b.png",
     "static/media/logo-wave.jpeg": "/portfolio-brunet/static/media/logo-wave.bef3eddb78f0fdf4d70f.jpeg",
     "static/media/logo-html5.png": "/portfolio-brunet/static/media/logo-html5.b0856aab19f67181616a.png",
+    "static/media/logo-Brunet-Nicolas-Developpeur-Web.webp": "/portfolio-brunet/static/media/logo-Brunet-Nicolas-Developpeur-Web.52a65c7168f0f50cb388.webp",
     "static/media/logo-gtmetrix.webp": "/portfolio-brunet/static/media/logo-gtmetrix.aa6e38f5f44e2881a9e8.webp",
     "static/media/slick.svg": "/portfolio-brunet/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio-brunet/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
-    "main.40177406.css.map": "/portfolio-brunet/static/css/main.40177406.css.map",
-    "main.2e14a1d4.js.map": "/portfolio-brunet/static/js/main.2e14a1d4.js.map",
+    "main.662d60c7.css.map": "/portfolio-brunet/static/css/main.662d60c7.css.map",
+    "main.00c8b82b.js.map": "/portfolio-brunet/static/js/main.00c8b82b.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40177406.css",
-    "static/js/main.2e14a1d4.js"
+    "static/css/main.662d60c7.css",
+    "static/js/main.00c8b82b.js"
   ]
 }

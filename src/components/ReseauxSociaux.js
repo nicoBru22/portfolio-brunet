@@ -25,8 +25,8 @@ function ReseauxSociaux() {
                         </a>
                     </div>
                     <div className="divLogoRS">
-                        <a href="https://www.instagram.com/_nico_bnt/" target="_blank">
-                            <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux" rel="noreferrer"></img>
+                        <a href="https://www.instagram.com/_nico_bnt/" target="_blank" rel="noreferrer">
+                            <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux" ></img>
                         </a>
                     </div>
                     <div className="divLogoRS">

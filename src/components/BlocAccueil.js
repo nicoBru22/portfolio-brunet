@@ -57,10 +57,9 @@ function BlocAccueil(){
                                     <a href="#sectionProjet" className="meContacter" >Projets ?</a>
                             </div>
                         </div>
-
                     </div>
                     <div className="divFleche">
-                        <a href="#sectionPresentation">
+                        <a href="/portfolio-brunet#sectionPresentation" aria-label="Aller à la section Présentation">
                             <div className="divIconFlecheS">
                                 <FontAwesomeIcon icon={faArrowDown} className="iconeFlecheBas" />
                             </div>

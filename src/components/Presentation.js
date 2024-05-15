@@ -1,5 +1,7 @@
 import React from "react";
-import monImage from "../images/photo-presentation-brunet-nicolas.jpg";
+
+import monImage from "../images/photo-presentation-brunet-nicolas.webp";
+
 import '../styles/Presentation.css';
 
 function Presentation(){

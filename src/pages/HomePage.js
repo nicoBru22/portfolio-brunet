@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Header from '../sections/Header.js';
 import SectionAccueil from '../sections/SectionAccueil.js';
 import SectionPresentation from '../sections/SectionPresentation.js';
@@ -9,10 +10,11 @@ import SectionServices from '../sections/SectionServices.js';
 import Footer from '../sections/Footer.js';
 import MetaData from '../components/MetaData.js';
 import Banner from '../components/Banner.js';
-import Merci from '../images/merci.jpg'
-import Responsive from '../images/responsive.jpg'
-import Cafe from '../images/cafe.jpg'
-import Ordi from '../images/ordi.jpg'
+
+import Merci from '../images/merci.webp'
+import Responsive from '../images/responsive.webp'
+import Cafe from '../images/cafe.webp'
+import Ordi from '../images/ordi.webp'
 
 import "../styles/mediaQueries/Phone.css"
 import "../styles/mediaQueries/Tablette.css"
@@ -26,6 +28,7 @@ function HomePage() {
                     src="https://www.googletagmanager.com/ns.html?id=GTM-TLFVDNV5"
                     height="0" width="0" 
                     style={{ display: 'none', visibility: 'hidden' }}
+                    title='balise GTM'
                 ></iframe>
             </noscript>
             <Header />

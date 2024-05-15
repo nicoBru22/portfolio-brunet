@@ -1,8 +1,10 @@
 import React from "react";
+
 import Presentation from "../components/Presentation.js";
 import PropTitreSection from "../components/PropTitreSection.js";
-import "../styles/SectionPresentation.css";
 import CollapseFormExp from "../components/CollapseFormationExp.js";
+
+import "../styles/SectionPresentation.css";
 
 
 function SectionPresentation(){

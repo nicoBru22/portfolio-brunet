@@ -1,9 +1,9 @@
 import React from "react";
 import '../styles/BlocAccueil.css';
-import picture from "../images/photo-presentation-brunet-nicolas.jpg";
+import picture from "../images/photo-presentation-brunet-nicolas.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
-import logo from "../images/logo-Brunet-Nicolas-Developpeur-Web.png"
+import logoResponsive from "../images/logo-Brunet-Nicolas-Developpeur-Web.png"
 
 function BlocAccueil(){
     return(
@@ -22,7 +22,7 @@ function BlocAccueil(){
                                 </h2>
                             </div>
                             <div className="logoResponsive">
-                                <img src= {logo} className="logoAccueil"></img>
+                                <img src= {logoResponsive} className="logoAccueil" alt="Logo de l'entreprise de Brunet Nicolas, développeur web"></img>
                             </div>
                             <div>
                                 <div className="bienvenue">

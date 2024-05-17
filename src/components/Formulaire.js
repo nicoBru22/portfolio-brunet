@@ -1,7 +1,9 @@
 import React from "react";
-import '../styles/Formulaire.css';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faPhone, faUser } from '@fortawesome/free-solid-svg-icons';
+
+import '../styles/Formulaire.css';
 
 function Formulaire(){
     return(

@@ -28,7 +28,7 @@
     align-items: center;
     height: 100%;
     flex-direction: column;
-  }
+}
 .divF{
     background-color: #80808024;
     width: 70%;
@@ -69,4 +69,15 @@ input{
     height: 200px;
     width: 80%;
     resize: none;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap; /* Maintient le texte sur une seule ligne */
+    border: 0;
 }

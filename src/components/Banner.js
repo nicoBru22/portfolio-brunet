@@ -4,6 +4,7 @@ import "../styles/Banner.css";
 function Banner(props) {
     const backgroundImage = {
         backgroundImage: `url('${props.imageUrl}')`,
+        loading: "lazy"
     }
 
     return (

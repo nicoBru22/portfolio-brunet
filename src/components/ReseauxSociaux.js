@@ -21,17 +21,29 @@ function ReseauxSociaux() {
                 <div className="logosReseaux">
                     <div className="divLogoRS">
                         <a href="https://www.facebook.com/profile.php?id=100010513450207" target="_blank" rel="noreferrer">
-                            <img src={Facebook} alt="Logo de Facebook" className="logoRéseauxSociaux"></img>
+                            <img 
+                                src={Facebook} 
+                                alt="Logo de Facebook" 
+                                className="logoRéseauxSociaux"
+                                loading="lazy"></img>
                         </a>
                     </div>
                     <div className="divLogoRS">
                         <a href="https://www.instagram.com/_nico_bnt/" target="_blank" rel="noreferrer">
-                            <img src={Instagram} alt="Logo d'Instagram" className="logoRéseauxSociaux" ></img>
+                            <img 
+                                src={Instagram} 
+                                alt="Logo d'Instagram" 
+                                className="logoRéseauxSociaux"
+                                loading="lazy"></img>
                         </a>
                     </div>
                     <div className="divLogoRS">
                         <a href="https://www.linkedin.com/in/nicolasbrunet1" target="_blank" rel="noreferrer">
-                            <img src={LinkedIn} alt="Logo de LinkedIn" className="logoRéseauxSociaux" />
+                            <img 
+                                src={LinkedIn} 
+                                alt="Logo de LinkedIn" 
+                                className="logoRéseauxSociaux"
+                                loading="lazy"></img>
                         </a>
                     </div>
                 </div>

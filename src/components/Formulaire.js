@@ -15,7 +15,8 @@ function Formulaire(){
 
                     <div className="labelInput">
                         <label htmlFor="name">
-                            <FontAwesomeIcon icon={faUser} className="iconForm"/>   
+                            <FontAwesomeIcon icon={faUser} className="iconForm"/>
+                            <span className="sr-only">Votre nom et prénom</span>     
                         </label>
                         <input 
                             type="text" 
@@ -27,6 +28,7 @@ function Formulaire(){
                     <div className="labelInput">
                         <label htmlFor="email">
                             <div  className="iconForm">@</div>
+                            <span className="sr-only">Votre Email</span>  
                         </label>
                         <input 
                             type="text" 
@@ -37,7 +39,8 @@ function Formulaire(){
                     </div>
                     <div className="labelInput">
                         <label htmlFor="phone">
-                            <FontAwesomeIcon icon={faPhone} className="iconForm" />   
+                            <FontAwesomeIcon icon={faPhone} className="iconForm" />
+                            <span className="sr-only">Votre numéro de téléphone</span>     
                         </label>
                         <input 
                             type="text" 
@@ -49,6 +52,7 @@ function Formulaire(){
                     <div className="labelInput textareaContainer"> 
                         <label htmlFor="message">
                             <FontAwesomeIcon icon={faEnvelope} className="iconForm" />
+                            <span className="sr-only">Votre message</span>  
                         </label>
                         <textarea 
                             id="message"

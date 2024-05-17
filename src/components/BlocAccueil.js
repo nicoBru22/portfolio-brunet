@@ -13,7 +13,11 @@ function BlocAccueil(){
         <div className="parallaxContainer">
             <div className="blocAccueil">
                 <div className="divImgAccueil">
-                    <img src={picture} className="imgAccueil" alt="Nicolas BRUNET les bras croisés" title="Portrait de présentation de Nicolas BRUNET"></img>
+                    <img 
+                    src={picture} className="imgAccueil" 
+                    alt="Nicolas BRUNET les bras croisés" 
+                    title="Portrait de présentation de Nicolas BRUNET">
+                    </img>
                 </div>
 
                 <div className="superposition">
@@ -25,7 +29,12 @@ function BlocAccueil(){
                                 </h2>
                             </div>
                             <div className="logoResponsive">
-                                <img src= {logoResponsive} className="logoAccueil" alt="Logo de l'entreprise de Brunet Nicolas, développeur web"></img>
+                                <img 
+                                src= {logoResponsive} 
+                                className="logoAccueil" 
+                                alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
+                                title="logo de l'entreprise">
+                                </img>
                             </div>
                             <div>
                                 <div className="bienvenue">

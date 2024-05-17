@@ -1,14 +1,15 @@
 import React from "react";
 import Formulaire from "../components/Formulaire.js";
-import PropTitreSection from "../components/PropTitreSection.js";
+import TitreSection from "../components/PropTitreSection.js";
 import ReseauxSociaux from "../components/ReseauxSociaux.js";
 import "../styles/SectionContact.css";
 
 function SectionContact(){
     return(
         <section id="sectionContact">
-                        <PropTitreSection
+            <TitreSection
                 titreSection="Contact"
+                soustitreSection="N'hésitez pas à me contacter via le formulaire !"
             />
             <div className="contactForm">
                 <ReseauxSociaux />

@@ -64,7 +64,7 @@ function Formulaire(){
                         />
                     </div>
                     <div className="divButtonForm">
-                        <button className="buttonForm" type="submit">Envoyer le message</button>
+                        <button className="buttonForm" type="submit" alt="bouton pour envoyer le formulaire par mail">Envoyer le message</button>
                         <div className="divMessagerie">En cliquant sur envoyer vous ouvrirez votre client de messagerie avec le message pré-rempli</div>
                     </div>
                 </form>

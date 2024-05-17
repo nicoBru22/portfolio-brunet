@@ -30,11 +30,11 @@ function BlocAccueil(){
                             </div>
                             <div className="logoResponsive">
                                 <img 
-                                src= {logoResponsive} 
-                                className="logoAccueil" 
-                                alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
-                                title="logo de l'entreprise"
-                                loading="lazy">                
+                                    src= {logoResponsive} 
+                                    className="logoAccueil" 
+                                    alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
+                                    title="logo de l'entreprise"
+                                    loading="lazy">                
                                 </img>
                             </div>
                             <div>

@@ -56,7 +56,10 @@
         font-size: 30px;
     }
     .superposition {
-    height: auto;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
     }
     .versSection {
         display: none;

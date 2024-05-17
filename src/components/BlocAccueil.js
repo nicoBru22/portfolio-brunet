@@ -33,7 +33,8 @@ function BlocAccueil(){
                                 src= {logoResponsive} 
                                 className="logoAccueil" 
                                 alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
-                                title="logo de l'entreprise">
+                                title="logo de l'entreprise"
+                                loading="lazy">                
                                 </img>
                             </div>
                             <div>

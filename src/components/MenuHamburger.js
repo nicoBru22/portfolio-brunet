@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
+
 import "../styles/MenuHamburger.css";
 
 function MenuHamburger() {
@@ -16,7 +18,7 @@ function MenuHamburger() {
 
     return (
         <div className="menuHamburger">
-            <button className="hamburger" onClick={toggleMenu}>
+            <button className="hamburger" onClick={toggleMenu} aria-label='Ouvre le menu sur tablette et sur téléphone'>
                 <FontAwesomeIcon icon={faBars} />
             </button>
             <ul className={isOpen ? 'menu-items open' : 'menu-items'}>

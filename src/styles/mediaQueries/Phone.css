@@ -61,6 +61,10 @@
     .versSection {
         display: none;
     }
+    .meContacter {
+        color: black;
+        font-size: 15px;
+    }
 
 /* gestion de la section présentation */
     .buttonCollapse {

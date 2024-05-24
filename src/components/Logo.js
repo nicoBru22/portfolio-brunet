@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import LogoBn from "../images/logo-Brunet-Nicolas-Developpeur-Web.webp";
+import LogoBn from "../images/logo-BN-75.webp";
 import "../styles/Logo.css"
 
 function Logo() {

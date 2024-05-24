@@ -1,8 +1,8 @@
 import React from "react";
 import "../styles/ReseauxSociaux.css";
-import Instagram from "../images/logo-instagram.jpg";
-import Facebook from "../images/logo-facebook.png";
-import LinkedIn from "../images/logo-linkedin.png";
+import Instagram from "../images/logo-instagram.webp";
+import Facebook from "../images/logo-facebook.webp";
+import LinkedIn from "../images/logo-linkedin.webp";
 
 function ReseauxSociaux() {
     return(

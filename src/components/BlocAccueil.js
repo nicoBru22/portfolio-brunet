@@ -3,7 +3,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
 
-import logoResponsive from "../images/logo-BN-50.webp"
+import logoResponsive from "../images/cafe.webp"
 import picture from "../images/photo-presentation-brunet-nicolas.webp";
 
 import '../styles/BlocAccueil.css';
@@ -34,7 +34,7 @@ function BlocAccueil(){
                                     className="logoAccueil" 
                                     alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
                                     title="logo de l'entreprise"
-                                    loading="lazy">                
+                                    loading="lazy">
                                 </img>
                             </div>
                             <div>

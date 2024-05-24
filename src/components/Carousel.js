@@ -33,40 +33,40 @@ function Carousel() {
         <div className='slider'>
             <Slider {...settings} >
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoHtml} alt="logo Html" />
+                    <img className="imgTechno" src={logoHtml} alt="logo Html" loading='lazy' />
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoCss} alt="logo Css" />
+                    <img className="imgTechno" src={logoCss} alt="logo Css" loading='lazy'/>
                 </div>
                 <div  className='divTechno'>
-                    <img className="imgTechno" src={logoJavascript} alt="logo Javascript" />
+                    <img className="imgTechno" src={logoJavascript} alt="logo Javascript" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoReact} alt="logo React" />
+                    <img className="imgTechno" src={logoReact} alt="logo React" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoNodeJS} alt="logo Node.js" />
+                    <img className="imgTechno" src={logoNodeJS} alt="logo Node.js" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoExpressJS} alt="logo ExpressJS" />
+                    <img className="imgTechno" src={logoExpressJS} alt="logo ExpressJS" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoMongoDB} alt="logo MongoDB" />
+                    <img className="imgTechno" src={logoMongoDB} alt="logo MongoDB" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoWave} alt="logo Wave" />
+                    <img className="imgTechno" src={logoWave} alt="logo Wave" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoLighthouse} alt="logo Google Lighthouse" />
+                    <img className="imgTechno" src={logoLighthouse} alt="logo Google Lighthouse" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoGTmetrix} alt="logo GT Metrix" />
+                    <img className="imgTechno" src={logoGTmetrix} alt="logo GT Metrix" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoPageSpeedInsights} alt="logo PageSpeed Insights" />
+                    <img className="imgTechno" src={logoPageSpeedInsights} alt="logo PageSpeed Insights" loading='lazy'/>
                 </div>
                 <div className='divTechno'>
-                    <img className="imgTechno" src={logoAgile} alt="logo Méthode Agile" />
+                    <img className="imgTechno" src={logoAgile} alt="logo Méthode Agile" loading='lazy'/>
                 </div>
             </Slider>
         </div>

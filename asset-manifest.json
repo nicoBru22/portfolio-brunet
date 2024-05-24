@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-brunet/static/css/main.df363c3f.css",
-    "main.js": "/portfolio-brunet/static/js/main.1bf93f0d.js",
+    "main.js": "/portfolio-brunet/static/js/main.763e8172.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -38,7 +38,6 @@
     "static/media/Projet6-img2.png": "/portfolio-brunet/static/media/Projet6-img2.78387fabb38aac3f73e7.png",
     "static/media/logo-javascript.webp": "/portfolio-brunet/static/media/logo-javascript.73e68ed0808b53e0732a.webp",
     "static/media/logo-expressjs.webp": "/portfolio-brunet/static/media/logo-expressjs.23d7919523b40bb6b45a.webp",
-    "static/media/logo-Brunet-Nicolas-Developpeur-Web.webp": "/portfolio-brunet/static/media/logo-Brunet-Nicolas-Developpeur-Web.52a65c7168f0f50cb388.webp",
     "static/media/logo-mongodb.webp": "/portfolio-brunet/static/media/logo-mongodb.b9f9e9d4dd045c29c92f.webp",
     "static/media/logo-agile.webp": "/portfolio-brunet/static/media/logo-agile.7dc4b58b22418c22e6bc.webp",
     "static/media/logo-lighthouse.webp": "/portfolio-brunet/static/media/logo-lighthouse.f9c6ae02c477bf2c3d10.webp",
@@ -57,11 +56,11 @@
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
     "index.html": "/portfolio-brunet/index.html",
     "main.df363c3f.css.map": "/portfolio-brunet/static/css/main.df363c3f.css.map",
-    "main.1bf93f0d.js.map": "/portfolio-brunet/static/js/main.1bf93f0d.js.map",
+    "main.763e8172.js.map": "/portfolio-brunet/static/js/main.763e8172.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df363c3f.css",
-    "static/js/main.1bf93f0d.js"
+    "static/js/main.763e8172.js"
   ]
 }

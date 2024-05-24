@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-brunet/static/css/main.70231143.css",
-    "main.js": "/portfolio-brunet/static/js/main.35dcbd4f.js",
+    "main.js": "/portfolio-brunet/static/js/main.e721e167.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -53,11 +53,11 @@
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio-brunet/index.html",
     "main.70231143.css.map": "/portfolio-brunet/static/css/main.70231143.css.map",
-    "main.35dcbd4f.js.map": "/portfolio-brunet/static/js/main.35dcbd4f.js.map",
+    "main.e721e167.js.map": "/portfolio-brunet/static/js/main.e721e167.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70231143.css",
-    "static/js/main.35dcbd4f.js"
+    "static/js/main.e721e167.js"
   ]
 }

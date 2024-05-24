@@ -1,7 +1,7 @@
 .contenuRefenrecement {
     display: flex;
     flex-direction: column;
-    text-align: justify;
+    text-align: center;
     padding: 15px;
     color: rgb(197, 197, 197);
     font-size: 20px;

@@ -33,8 +33,7 @@ function BlocAccueil(){
                                     src= {logoResponsive} 
                                     className="logoAccueil" 
                                     alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
-                                    title="logo de l'entreprise"
-                                    loading="lazy">
+                                    title="logo de l'entreprise">
                                 </img>
                             </div>
                             <div>
@@ -58,7 +57,7 @@ function BlocAccueil(){
                                     <a href="#sectionPresentation" className="meContacter" >Qui suis-je ?</a>
                             </div>
                             <div className="boutonContact">
-                                    <a href="#sectionCompétence" className="meContacter" >Compétences ?</a>
+                                    <a href="#sectionCompetence" className="meContacter" >Compétences ?</a>
                             </div>
                             <div className="boutonContact">
                                     <a href="#sectionServices" className="meContacter" >Services ?</a>

@@ -23,7 +23,7 @@ function Projets(){
                 to="/portfolio-brunet/projet2"
                 className="projet2"
                 titreProjet="Sophie BLUEL, architecte d'intérieur"
-                imageDescription="Description de votre image"
+                imageDescription="Image du site de Sophe BLUEL"
                 imageUrl={imageProjet2}
                 descriptionProjet="Objectif : Développer la page d'accueil d'un site d'architecte avec Javascript."
             />
@@ -32,7 +32,7 @@ function Projets(){
                 className="projet3"
                 titreProjet="Menu-Maker by Qwenta"
                 imageUrl={imageProjet3}
-                imageDescription="Description de votre image"
+                imageDescription="Image du projet Menu-Maker by Qwenta"
                 descriptionProjet="Objectif : Développer le site d'une entreprise de création de menu de restaurant en ligne."
             />
             <PropProjets
@@ -48,7 +48,7 @@ function Projets(){
                 className="projet5"
                 titreProjet="KASA, location immobilière"
                 imageUrl={imageProjet5}
-                imageDescription="Image du site"
+                imageDescription="Image du site de KASA"
                 descriptionProjet="Objectif : Créer une application web de location immobilière avec React."
             />
             <PropProjets
@@ -56,7 +56,7 @@ function Projets(){
                 className="projet6"
                 titreProjet="Mon vieux grimoire, librairie"
                 imageUrl={imageProjet6}
-                imageDescription="Image du site"
+                imageDescription="Image du site de la librairie, Mon vieux Grimoire"
                 descriptionProjet="Objectif : Développer la partie Back-End du site avec Express.js."
             />
         </div>

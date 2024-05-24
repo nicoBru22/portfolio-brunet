@@ -12,7 +12,7 @@ function Formulaire() {
 
         // Remplacez 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', et 'YOUR_USER_ID' par vos identifiants EmailJS
 
-        emailjs.sendForm('service_gv2ueek', 'template_p6shyoz', form.current, 'K9zzm2pMDL7ijx4q_FbPe')
+        emailjs.sendForm('service_gv2ueek', 'template_p6shyoz', form.current, 'CfvbS-NQ3yKMgRllT')
             .then((result) => {
                 console.log(result.text);
                 alert("Message envoyé avec succès !");

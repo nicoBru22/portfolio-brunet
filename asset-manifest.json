@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-brunet/static/css/main.df363c3f.css",
-    "main.js": "/portfolio-brunet/static/js/main.763e8172.js",
+    "main.js": "/portfolio-brunet/static/js/main.5bd12daf.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -56,11 +56,11 @@
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
     "index.html": "/portfolio-brunet/index.html",
     "main.df363c3f.css.map": "/portfolio-brunet/static/css/main.df363c3f.css.map",
-    "main.763e8172.js.map": "/portfolio-brunet/static/js/main.763e8172.js.map",
+    "main.5bd12daf.js.map": "/portfolio-brunet/static/js/main.5bd12daf.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df363c3f.css",
-    "static/js/main.763e8172.js"
+    "static/js/main.5bd12daf.js"
   ]
 }

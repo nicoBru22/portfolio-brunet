@@ -1,11 +1,11 @@
 import React from "react";
 import PropProjets from "./propProjets";
-import imageProjet1 from "../images/Projets/Projet1-imgCard.png"
-import imageProjet2 from "../images/Projets/Projet2-imgCard.png"
-import imageProjet3 from "../images/Projets/Projet3-imgCard.png"
-import imageProjet4 from "../images/Projets/Projet4-imgCard.png"
-import imageProjet5 from "../images/Projets/Projet5-imgCard.png"
-import imageProjet6 from "../images/Projets/Projet6-imgCard.png"
+import imageProjet1 from "../images/Projets/Projet1-imgCard.webp"
+import imageProjet2 from "../images/Projets/Projet2-imgCard.webp"
+import imageProjet3 from "../images/Projets/Projet3-imgCard.webp"
+import imageProjet4 from "../images/Projets/Projet4-imgCard.webp"
+import imageProjet5 from "../images/Projets/Projet5-imgCard.webp"
+import imageProjet6 from "../images/Projets/Projet6-imgCard.webp"
 import '../styles/Projet.css';
 
 function Projets(){

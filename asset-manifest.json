@@ -1,24 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio-brunet/static/css/main.df363c3f.css",
-    "main.js": "/portfolio-brunet/static/js/main.a37d5604.js",
+    "main.js": "/portfolio-brunet/static/js/main.e615500a.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
     "static/media/Projet5-img1.png": "/portfolio-brunet/static/media/Projet5-img1.ab3dd255634667aa3bd1.png",
-    "static/media/Projet5-imgCard.png": "/portfolio-brunet/static/media/Projet5-imgCard.ab3dd255634667aa3bd1.png",
     "static/media/Projet2-img1.png": "/portfolio-brunet/static/media/Projet2-img1.d9b44afa5adcba49b52d.png",
     "static/media/cv-brunet-nicolas.pdf": "/portfolio-brunet/static/media/cv-brunet-nicolas.c001a352c6f967623561.pdf",
-    "static/media/Projet4-imgCard.png": "/portfolio-brunet/static/media/Projet4-imgCard.e4133d10094d40c6d1fd.png",
-    "static/media/Projet2-imgCard.png": "/portfolio-brunet/static/media/Projet2-imgCard.3162512df172b030e710.png",
     "static/media/Projet5-img3.png": "/portfolio-brunet/static/media/Projet5-img3.81f46a84cf4ef1e8a82e.png",
-    "static/media/Projet3-imgCard.png": "/portfolio-brunet/static/media/Projet3-imgCard.7655dd20fdb4ea248f75.png",
-    "static/media/Projet6-imgCard.png": "/portfolio-brunet/static/media/Projet6-imgCard.e56a1845c4b2cb60bbf7.png",
     "static/media/photo-presentation-brunet-nicolas.webp": "/portfolio-brunet/static/media/photo-presentation-brunet-nicolas.c5518ba5b4d881216b73.webp",
     "static/media/Projet3-img1.png": "/portfolio-brunet/static/media/Projet3-img1.320e43609f2791877479.png",
     "static/media/Projet5-img2.png": "/portfolio-brunet/static/media/Projet5-img2.a5941f5420d9bfa3c3ee.png",
     "static/media/Projet2-img2.png": "/portfolio-brunet/static/media/Projet2-img2.8bb9e8c1f3b7e0c8fe8d.png",
-    "static/media/Projet1-imgCard.png": "/portfolio-brunet/static/media/Projet1-imgCard.d60243cbf909dc48cd8f.png",
     "static/media/Projet4-img2.png": "/portfolio-brunet/static/media/Projet4-img2.d48288c65b680be10d3f.png",
     "static/media/Projet6-img3.png": "/portfolio-brunet/static/media/Projet6-img3.2cb86a963d4d0c3c6867.png",
     "static/media/Projet1-img2.png": "/portfolio-brunet/static/media/Projet1-img2.e93b6f9b1985bcd4863d.png",
@@ -32,10 +26,16 @@
     "static/media/responsive.webp": "/portfolio-brunet/static/media/responsive.928ea4c5559d09924683.webp",
     "static/media/ordi.webp": "/portfolio-brunet/static/media/ordi.ea95952a494c1ff7f774.webp",
     "static/media/logo-react.webp": "/portfolio-brunet/static/media/logo-react.7726ec274ecc8389d78f.webp",
+    "static/media/Projet5-imgCard.webp": "/portfolio-brunet/static/media/Projet5-imgCard.9caa7a9659abce8a8c77.webp",
     "static/media/logo-facebook.webp": "/portfolio-brunet/static/media/logo-facebook.51b47aa9c00a17e5c359.webp",
     "static/media/logo-nodejs.webp": "/portfolio-brunet/static/media/logo-nodejs.e4c82bc8fccd1eac35ec.webp",
     "static/media/Projet6-img1.png": "/portfolio-brunet/static/media/Projet6-img1.d9edd927cc06d6e1b9be.png",
+    "static/media/Projet6-imgCard.webp": "/portfolio-brunet/static/media/Projet6-imgCard.35bd13e0ee1c797b6b60.webp",
+    "static/media/Projet2-imgCard.webp": "/portfolio-brunet/static/media/Projet2-imgCard.30f83e34c4fa5a1a8f69.webp",
     "static/media/Projet6-img2.png": "/portfolio-brunet/static/media/Projet6-img2.78387fabb38aac3f73e7.png",
+    "static/media/Projet3-imgCard.webp": "/portfolio-brunet/static/media/Projet3-imgCard.8d18d3126c8cd02d2723.webp",
+    "static/media/Projet1-imgCard.webp": "/portfolio-brunet/static/media/Projet1-imgCard.f051f5edc35c7a9fa756.webp",
+    "static/media/Projet4-imgCard.webp": "/portfolio-brunet/static/media/Projet4-imgCard.08db1663f0e29f26f6b6.webp",
     "static/media/logo-javascript.webp": "/portfolio-brunet/static/media/logo-javascript.73e68ed0808b53e0732a.webp",
     "static/media/logo-expressjs.webp": "/portfolio-brunet/static/media/logo-expressjs.23d7919523b40bb6b45a.webp",
     "static/media/logo-mongodb.webp": "/portfolio-brunet/static/media/logo-mongodb.b9f9e9d4dd045c29c92f.webp",
@@ -56,11 +56,11 @@
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
     "main.df363c3f.css.map": "/portfolio-brunet/static/css/main.df363c3f.css.map",
-    "main.a37d5604.js.map": "/portfolio-brunet/static/js/main.a37d5604.js.map",
+    "main.e615500a.js.map": "/portfolio-brunet/static/js/main.e615500a.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df363c3f.css",
-    "static/js/main.a37d5604.js"
+    "static/js/main.e615500a.js"
   ]
 }

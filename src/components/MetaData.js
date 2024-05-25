@@ -1,31 +1,12 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
-import logoResponsive from "../images/logo-BN-75.webp"
-
 import "../styles/MetaData.css";
 
 function MetaData() {
   return (
     <>
       <Helmet>
-        <title>Brunet Nicolas - Développeur Web</title>
-        <meta name="description" content="Portfolio du développeur web, BRUNET Nicolas" />
-        <link rel="preload" href={logoResponsive} as="image" />
-
-        <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="og:description" content="Site du développeur Web BRUNET Nicolas" />
-        <meta property="og:url" content="https://nicobru22.github.io/portfolio-brunet/" />
-        <meta property="og:image" content={logoResponsive} />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Développeur Web BRUNET Nicolas" />
-
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:site" content="@votre_nom_utilisateur" />
-        <meta property="twitter:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="twitter:description" content="Site du développeur Web BRUNET Nicolas" />
-        <meta property="twitter:image" content={logoResponsive} />
-
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>

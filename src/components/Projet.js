@@ -11,14 +11,14 @@ import '../styles/Projet.css';
 function Projets(){
     return(
         <div className="projets">
-                <PropProjets
-                    to="/portfolio-brunet/projet1"
-                    className="projet1"
-                    titreProjet="BOOKI, agence de voyage"
-                    imageUrl={imageProjet1}
-                    imageDescription="Image du site"
-                    descriptionProjet="Objectif : Développer la page d'accueil d'un site de voyage avec Html et Css."
-                />
+            <PropProjets
+                to="/portfolio-brunet/projet1"
+                className="projet1"
+                titreProjet="BOOKI, agence de voyage"
+                imageUrl={imageProjet1}
+                imageDescription="Image du site"
+                descriptionProjet="Objectif : Développer la page d'accueil d'un site de voyage avec Html et Css."
+            />
             <PropProjets
                 to="/portfolio-brunet/projet2"
                 className="projet2"

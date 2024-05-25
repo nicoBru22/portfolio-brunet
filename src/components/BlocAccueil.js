@@ -1,15 +1,23 @@
-import React from "react";
-
+import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
-
-import logoResponsive from "../images/logo-BN-50.webp"
 import picture from "../images/photo-presentation-brunet-nicolas.webp";
-
 import '../styles/BlocAccueil.css';
 
-function BlocAccueil(){
-    return(
+function BlocAccueil() {
+    useEffect(() => {
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.href = '../images/logo-BN-50.webp';
+        link.as = 'image';
+        document.head.appendChild(link);
+
+        return () => {
+            document.head.removeChild(link);
+        };
+    }, []);
+
+    return (
         <div className="parallaxContainer">
             <div className="blocAccueil">
                 <div className="divImgAccueil">
@@ -30,7 +38,7 @@ function BlocAccueil(){
                             </div>
                             <div className="logoResponsive">
                                 <img 
-                                    src= {logoResponsive} 
+                                    src="../images/logo-BN-50.webp" 
                                     className="logoAccueil" 
                                     alt="Logo de l'entreprise de Brunet Nicolas, développeur web"
                                     title="logo de l'entreprise">

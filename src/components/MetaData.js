@@ -16,20 +16,20 @@ function MetaData() {
 
         <meta property="og:title" content="Développeur Web, BRUNET Nicolas" />
         <meta property="og:description" content="Site du développeur Web BRUNET Nicolas" />
-        <meta property="og:url" content="URL de votre page" />
-        <meta property="og:image" content={Logo} />
+        <meta property="og:url" content="https://nicobru22.github.io/portfolio-brunet/" />
+        <meta property="og:image" content={logoResponsive} />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Développeur Web BRUNET Nicolas" />
 
-        <meta property="instagram:card" content="summary_large_image" />
-        <meta property="instagram:site" content="@votre_nom_utilisateur" />
-        <meta property="instagram:title" content="Développeur Web, BRUNET Nicolas" />
-        <meta property="instagram:description" content="Site du développeur Web BRUNET Nicolas" />
-        <meta property="instagram:image" content={Logo} />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:site" content="@votre_nom_utilisateur" />
+        <meta property="twitter:title" content="Développeur Web, BRUNET Nicolas" />
+        <meta property="twitter:description" content="Site du développeur Web BRUNET Nicolas" />
+        <meta property="twitter:image" content={logoResponsive} />
 
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
         <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet"/>
         <meta name="google-site-verification" content="2L5rLZXSAnoQVXPgJPmimIojj1tShdHdTdjLn8p-ix4" />
         <script>

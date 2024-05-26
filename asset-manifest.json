@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.7049b6df.css",
+    "main.css": "/portfolio-brunet/static/css/main.82bf8cb5.css",
     "main.js": "/portfolio-brunet/static/js/main.2555018d.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
@@ -54,12 +54,12 @@
     "index.html": "/portfolio-brunet/index.html",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
-    "main.7049b6df.css.map": "/portfolio-brunet/static/css/main.7049b6df.css.map",
+    "main.82bf8cb5.css.map": "/portfolio-brunet/static/css/main.82bf8cb5.css.map",
     "main.2555018d.js.map": "/portfolio-brunet/static/js/main.2555018d.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7049b6df.css",
+    "static/css/main.82bf8cb5.css",
     "static/js/main.2555018d.js"
   ]
 }

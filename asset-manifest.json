@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.155b4a80.css",
-    "main.js": "/portfolio-brunet/static/js/main.8a96ad74.js",
+    "main.css": "/portfolio-brunet/static/css/main.7d29948c.css",
+    "main.js": "/portfolio-brunet/static/js/main.e92a880a.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/Projet4-img1.png": "/portfolio-brunet/static/media/Projet4-img1.f01fc54a388776ca1c7a.png",
     "static/media/Projet4-img3.png": "/portfolio-brunet/static/media/Projet4-img3.f099e4535889b4325b57.png",
@@ -17,20 +17,20 @@
     "static/media/Projet6-img3.png": "/portfolio-brunet/static/media/Projet6-img3.2cb86a963d4d0c3c6867.png",
     "static/media/Projet1-img2.png": "/portfolio-brunet/static/media/Projet1-img2.e93b6f9b1985bcd4863d.png",
     "static/media/Projet2-img3.png": "/portfolio-brunet/static/media/Projet2-img3.06ad9a4b8b5cb5e8039c.png",
-    "static/media/merci.webp": "/portfolio-brunet/static/media/merci.a88b738094b2f9e4c35c.webp",
     "static/media/Projet3-img2.png": "/portfolio-brunet/static/media/Projet3-img2.382342428634b5cb838e.png",
-    "static/media/cafe.webp": "/portfolio-brunet/static/media/cafe.7f2d9a90d4b49b8d8325.webp",
     "static/media/Projet1-img1.png": "/portfolio-brunet/static/media/Projet1-img1.220e4f750cbcacb8b129.png",
     "static/media/Projet1-img3responsive.png": "/portfolio-brunet/static/media/Projet1-img3responsive.8a0a0b82cb74839aae56.png",
     "static/media/Projet3-img3.png": "/portfolio-brunet/static/media/Projet3-img3.db6a4ee8c68a8751d61b.png",
-    "static/media/responsive.webp": "/portfolio-brunet/static/media/responsive.928ea4c5559d09924683.webp",
-    "static/media/ordi.webp": "/portfolio-brunet/static/media/ordi.ea95952a494c1ff7f774.webp",
+    "static/media/merci.webp": "/portfolio-brunet/static/media/merci.4ddb254b722f5ce50c34.webp",
+    "static/media/cafe.webp": "/portfolio-brunet/static/media/cafe.33e7aa0107b18d71cdff.webp",
     "static/media/logo-react.webp": "/portfolio-brunet/static/media/logo-react.7726ec274ecc8389d78f.webp",
+    "static/media/ordi.webp": "/portfolio-brunet/static/media/ordi.d6077515765de49d2009.webp",
     "static/media/Projet5-imgCard.webp": "/portfolio-brunet/static/media/Projet5-imgCard.9caa7a9659abce8a8c77.webp",
     "static/media/logo-facebook.webp": "/portfolio-brunet/static/media/logo-facebook.51b47aa9c00a17e5c359.webp",
     "static/media/logo-nodejs.webp": "/portfolio-brunet/static/media/logo-nodejs.e4c82bc8fccd1eac35ec.webp",
     "static/media/Projet6-img1.png": "/portfolio-brunet/static/media/Projet6-img1.d9edd927cc06d6e1b9be.png",
     "static/media/Projet6-imgCard.webp": "/portfolio-brunet/static/media/Projet6-imgCard.35bd13e0ee1c797b6b60.webp",
+    "static/media/responsive.webp": "/portfolio-brunet/static/media/responsive.1ad65047730315a30bc5.webp",
     "static/media/Projet2-imgCard.webp": "/portfolio-brunet/static/media/Projet2-imgCard.30f83e34c4fa5a1a8f69.webp",
     "static/media/Projet6-img2.png": "/portfolio-brunet/static/media/Projet6-img2.78387fabb38aac3f73e7.png",
     "static/media/Projet3-imgCard.webp": "/portfolio-brunet/static/media/Projet3-imgCard.8d18d3126c8cd02d2723.webp",
@@ -55,12 +55,12 @@
     "index.html": "/portfolio-brunet/index.html",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
-    "main.155b4a80.css.map": "/portfolio-brunet/static/css/main.155b4a80.css.map",
-    "main.8a96ad74.js.map": "/portfolio-brunet/static/js/main.8a96ad74.js.map",
+    "main.7d29948c.css.map": "/portfolio-brunet/static/css/main.7d29948c.css.map",
+    "main.e92a880a.js.map": "/portfolio-brunet/static/js/main.e92a880a.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.155b4a80.css",
-    "static/js/main.8a96ad74.js"
+    "static/css/main.7d29948c.css",
+    "static/js/main.e92a880a.js"
   ]
 }

@@ -16,11 +16,9 @@
 .elementMenu {
     text-decoration: none;
     color: black;
+    margin-right: 10px;
 }
 .elementMenu:hover {
     color: brown;
     border-bottom: solid;
-}
-li {
-    margin-right: 30px;
 }

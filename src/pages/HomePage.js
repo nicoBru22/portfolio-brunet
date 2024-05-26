@@ -8,7 +8,6 @@ import SectionProjets from '../sections/SectionProjets.js';
 import SectionContact from '../sections/SectionContact.js';
 import SectionServices from '../sections/SectionServices.js';
 import Footer from '../sections/Footer.js';
-import MetaData from '../components/MetaData.js';
 import Banner from '../components/Banner.js';
 
 import Merci from '../images/merci.webp'
@@ -22,7 +21,6 @@ import "../styles/mediaQueries/Tablette.css"
 function HomePage() {
     return (
         <div>
-            <MetaData />
             <noscript>
                 <iframe 
                     src="https://www.googletagmanager.com/ns.html?id=GTM-TLFVDNV5"

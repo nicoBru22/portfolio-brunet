@@ -1,18 +1,19 @@
 import React from "react";
+
 import HeaderProjet from "../components/HeaderProjet";
 import Footer from "../sections/Footer";
 import ElementProjet from "../components/Element-projet";
 import RetourAccueil from "../components/RetourAccueil";
 import LigneInterElement from "../components/LigneInterElement";
 import IntroProjet from "../components/IntroProjet";
-import Image1 from "../images/Projets/Projet4-img1.png";
-import Image2 from "../images/Projets/Projet4-img2.png";
-import Image3 from "../images/Projets/Projet4-img3.png";
-import "../styles/Element-projet.css"
 
+import Image1 from "../images/Projets/Projet4-img1.webp";
+import Image2 from "../images/Projets/Projet4-img2.webp";
+import Image3 from "../images/Projets/Projet4-img3.webp";
+
+import "../styles/Element-projet.css"
 import "../styles/mediaQueries/Phone.css"
 import "../styles/mediaQueries/Tablette.css"
-
 
 function Projet5() {
     return (

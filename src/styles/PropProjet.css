@@ -52,7 +52,7 @@ visibility: visible;
 }
 .titreProjet {
     height: 50px;
-    color: white;
+    color: black;
     justify-content: center;
     display: flex;
     align-items: center;

@@ -21,7 +21,7 @@ function Projet1() {
             <HeaderProjet />
             <IntroProjet
                 titreProjet="Projet 1 : Agence de voyage BOOKI"
-                objectifs="Création de la page d'accueil du site BOOKI"
+                objectifs="Objectif : Création de la page d'accueil du site BOOKI"
                 technos="Langages utilisés : HTML et CSS"
             />
             <LigneInterElement />

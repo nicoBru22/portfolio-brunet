@@ -7,7 +7,7 @@
     text-align: justify;
     align-items: center;
     padding: 20px;
-    font-size: 30px;
+    font-size: 25px;
 }
 .divElementProjet {
     padding: 20px;
@@ -29,8 +29,14 @@
     object-fit: contain;
     width: 100%;
 }
+.objectifsProjet {
+    font-size: 25px;
+}
 .ResumeProjet {
-    font-size: 35px;
+    font-size: 25px;
+}
+.technosProjet {
+    font-size: 25px;
 }
 .titreProjetPage {
     color: black;

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-brunet/static/css/main.c5ac76e8.css",
+    "main.css": "/portfolio-brunet/static/css/main.93d7ab72.css",
     "main.js": "/portfolio-brunet/static/js/main.23f0a9ff.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/cv-brunet-nicolas.pdf": "/portfolio-brunet/static/media/cv-brunet-nicolas.c001a352c6f967623561.pdf",
@@ -49,17 +49,17 @@
     "static/media/logo-pageSpeedInsights.webp": "/portfolio-brunet/static/media/logo-pageSpeedInsights.a1737e667842f6963956.webp",
     "static/media/slick.svg": "/portfolio-brunet/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio-brunet/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/portfolio-brunet/index.html",
+    "static/media/slick.ttf": "/portfolio-brunet/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/logo-linkedin.webp": "/portfolio-brunet/static/media/logo-linkedin.0d59be76dc997a27c802.webp",
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
-    "main.c5ac76e8.css.map": "/portfolio-brunet/static/css/main.c5ac76e8.css.map",
+    "main.93d7ab72.css.map": "/portfolio-brunet/static/css/main.93d7ab72.css.map",
     "main.23f0a9ff.js.map": "/portfolio-brunet/static/js/main.23f0a9ff.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5ac76e8.css",
+    "static/css/main.93d7ab72.css",
     "static/js/main.23f0a9ff.js"
   ]
 }

@@ -8,6 +8,7 @@ import Projet3 from '../pages/Projet3';
 import Projet4 from '../pages/Projet4';
 import Projet5 from '../pages/Projet5';
 import Projet6 from '../pages/Projet6';
+import HautDePage from '../components/HautDePage';
 
 import "../styles/mediaQueries/Phone.css";
 import "../styles/mediaQueries/Tablette.css";
@@ -15,6 +16,7 @@ import "../styles/mediaQueries/Tablette.css";
 function AppRoutes() {
   return (
     <Router>
+      <HautDePage />
       <Routes>
         <Route path="/portfolio-brunet" element={<HomePage />} />
         <Route path='/portfolio-brunet/projet1' element={<Projet1 />} />

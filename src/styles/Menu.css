@@ -17,6 +17,7 @@
     text-decoration: none;
     color: black;
     margin-right: 10px;
+    margin-left: 10px;
 }
 .elementMenu:hover {
     color: brown;

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
+import cv from "../documents/cv-brunet-nicolas.pdf"
 import "../styles/MenuHamburger.css";
 
 function MenuHamburger() {
@@ -23,7 +24,7 @@ function MenuHamburger() {
                 <li><Link to="/portfolio-brunet#sectionCompetence" className='elementMenu'>Compétence</Link></li>
                 <li><Link to="/portfolio-brunet#sectionServices" className='elementMenu'>Services</Link></li>
                 <li><Link to="/portfolio-brunet#sectionContact" className='elementMenu'>Contact</Link></li>
-                <li><Link to="/portfolio-brunet#cv" className='elementMenu'>Mon CV</Link></li>
+                <li><a href={cv} className='elementMenu' download>Mon CV</a></li>
             </ul>
         </div>
     );

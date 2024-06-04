@@ -10,7 +10,7 @@ function Formulaire() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        // Remplacez 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', et 'YOUR_USER_ID' par vos identifiants EmailJS
+        // Attention, je dois remplacer les mots de passe et identifiants
 
         emailjs.sendForm('service_gv2ueek', 'template_p6shyoz', form.current, 'CfvbS-NQ3yKMgRllT')
             .then((result) => {

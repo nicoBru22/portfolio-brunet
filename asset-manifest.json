@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-brunet/static/css/main.f1f1046a.css",
-    "main.js": "/portfolio-brunet/static/js/main.59b2863f.js",
+    "main.js": "/portfolio-brunet/static/js/main.ef5e3afa.js",
     "static/js/453.66adf806.chunk.js": "/portfolio-brunet/static/js/453.66adf806.chunk.js",
     "static/media/cv-brunet-nicolas.pdf": "/portfolio-brunet/static/media/cv-brunet-nicolas.c001a352c6f967623561.pdf",
     "static/media/photo-presentation-brunet-nicolas.webp": "/portfolio-brunet/static/media/photo-presentation-brunet-nicolas.c5518ba5b4d881216b73.webp",
@@ -55,11 +55,11 @@
     "static/media/slick.woff": "/portfolio-brunet/static/media/slick.295183786cd8a1389865.woff",
     "static/media/logo-instagram.webp": "/portfolio-brunet/static/media/logo-instagram.78366934a18e37e4963d.webp",
     "main.f1f1046a.css.map": "/portfolio-brunet/static/css/main.f1f1046a.css.map",
-    "main.59b2863f.js.map": "/portfolio-brunet/static/js/main.59b2863f.js.map",
+    "main.ef5e3afa.js.map": "/portfolio-brunet/static/js/main.ef5e3afa.js.map",
     "453.66adf806.chunk.js.map": "/portfolio-brunet/static/js/453.66adf806.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1f1046a.css",
-    "static/js/main.59b2863f.js"
+    "static/js/main.ef5e3afa.js"
   ]
 }
